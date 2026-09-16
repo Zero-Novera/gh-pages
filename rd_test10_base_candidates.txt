@@ -1,0 +1,2241 @@
+================================================================================
+LET IT DIE R&D CALCULATOR - TEST 10
+BASE R&D CHAIN CANDIDATE EXTRACTION
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Source pages:                 747
+Normal 5-table pages:         563
+Multi-chain pages:            8
+Small 1-4 table pages:        170
+Other page structures:        6
+
+Raw base candidates:          611
+Unique base candidate names:  216
+Duplicate candidate names:    164
+
+PAGE TABLE-COUNT DISTRIBUTION
+--------------------------------------------------------------------------------
+  1 tables:   63 pages
+  2 tables:   53 pages
+  3 tables:   29 pages
+  4 tables:   25 pages
+  5 tables:  563 pages
+  8 tables:    1 pages
+ 16 tables:    2 pages
+ 24 tables:    2 pages
+ 27 tables:    1 pages
+ 30 tables:    8 pages
+
+================================================================================
+UNIQUE BASE R&D CANDIDATES
+================================================================================
+
+   1. Agamemnon Leggings [2 occurrence(s)]
+   2. Agamemnon Mail [1 occurrence(s)]
+   3. Agamemnon Mask [3 occurrence(s)]
+   4. Apocalyptic Hockey Body [3 occurrence(s)]
+   5. Apocalyptic Hockey Mask [3 occurrence(s)]
+   6. Apocalyptic Hockey Pants [3 occurrence(s)]
+   7. Apocalyptic Hockey Stick [5 occurrence(s)]
+   8. Assault Force Body [1 occurrence(s)]
+   9. Assault Force Head [1 occurrence(s)]
+  10. Assault Force Pants [1 occurrence(s)]
+  11. Barrett Punisher Body [3 occurrence(s)]
+  12. Barrett Punisher Head [3 occurrence(s)]
+  13. Barrett Punisher Pants [3 occurrence(s)]
+  14. Beam Katana 1 [5 occurrence(s)]
+  15. Blitz Bowler Body [3 occurrence(s)]
+  16. Blitz Bowler Head [3 occurrence(s)]
+  17. Blitz Bowler Pants [2 occurrence(s)]
+  18. Bloody Pitching Machine [5 occurrence(s)]
+  19. Bloody Pitching Machine TDM [5 occurrence(s)]
+  20. Bowling Stomper [5 occurrence(s)]
+  21. Bowling Stomper TDM [5 occurrence(s)]
+  22. Brutal Yo-Yo [4 occurrence(s)]
+  23. Butterfly Knife [5 occurrence(s)]
+  24. Buzzsaw Knuckles [5 occurrence(s)]
+  25. Chainsaw Viper [5 occurrence(s)]
+  26. Chemical Agent Body [2 occurrence(s)]
+  27. Chemical Agent Mask [3 occurrence(s)]
+  28. Chemical Agent Pants [3 occurrence(s)]
+  29. Clay Figurine Armor [3 occurrence(s)]
+  30. Clay Figurine Armor RE [3 occurrence(s)]
+  31. Clay Figurine Helmet [4 occurrence(s)]
+  32. Clay Figurine Helmet RE [3 occurrence(s)]
+  33. Clay Figurine Leggings [3 occurrence(s)]
+  34. Clay Figurine Leggings RE [3 occurrence(s)]
+  35. Cleaver Saber [5 occurrence(s)]
+  36. Cleaver Saber TDM [5 occurrence(s)]
+  37. Combat Diver Body [1 occurrence(s)]
+  38. Combat Diver Head [2 occurrence(s)]
+  39. Combat Diver Pants [1 occurrence(s)]
+  40. Combat Pickaxe [5 occurrence(s)]
+  41. Cycle Madness Body [1 occurrence(s)]
+  42. Cycle Madness Head [2 occurrence(s)]
+  43. Cycle Madness Pants [1 occurrence(s)]
+  44. Cyclone Shuriken [5 occurrence(s)]
+  45. Dark Ryback Body [1 occurrence(s)]
+  46. Dark Ryback Mask [4 occurrence(s)]
+  47. Dark Ryback Pants [2 occurrence(s)]
+  48. Demon Gun 1 [5 occurrence(s)]
+  49. DIY Attack Coat [1 occurrence(s)]
+  50. DIY Attack Coat EL [1 occurrence(s)]
+  51. DIY Attack Head [3 occurrence(s)]
+  52. DIY Attack Pants [1 occurrence(s)]
+  53. Doctor Drill Body [1 occurrence(s)]
+  54. Doctor Drill Mask [3 occurrence(s)]
+  55. Doctor Drill Pants [1 occurrence(s)]
+  56. Drill Arm [5 occurrence(s)]
+  57. Drill Arm TDM [5 occurrence(s)]
+  58. DUKE-02 Sniper Rifle [5 occurrence(s)]
+  59. Evil Wizard Coat [1 occurrence(s)]
+  60. Evil Wizard Cowl [2 occurrence(s)]
+  61. Evil Wizard Leggings [2 occurrence(s)]
+  62. Exo-armor Body [1 occurrence(s)]
+  63. Exo-armor Head [2 occurrence(s)]
+  64. Exo-armor Pants [1 occurrence(s)]
+  65. Fencing Armor [3 occurrence(s)]
+  66. Fencing Helmet [3 occurrence(s)]
+  67. Fencing Leggings [1 occurrence(s)]
+  68. FFWF-103 Flamethrower [5 occurrence(s)]
+  69. FFWF-103 Flamethrower TDM [5 occurrence(s)]
+  70. Fireball Baton [5 occurrence(s)]
+  71. Fireworks Launcher [5 occurrence(s)]
+  72. Flame Wand [5 occurrence(s)]
+  73. GLIDER 1 [5 occurrence(s)]
+  74. Glinty Magnum [5 occurrence(s)]
+  75. Guerrilla Blaster Body [2 occurrence(s)]
+  76. Guerrilla Blaster Head [3 occurrence(s)]
+  77. Guerrilla Blaster Pants [1 occurrence(s)]
+  78. Happy Wheeler Body [2 occurrence(s)]
+  79. Happy Wheeler Head [3 occurrence(s)]
+  80. Happy Wheeler Pants [2 occurrence(s)]
+  81. Hard Puncher Body [2 occurrence(s)]
+  82. Hard Puncher Head [3 occurrence(s)]
+  83. Hard Puncher Pants [2 occurrence(s)]
+  84. Hard Target Body [1 occurrence(s)]
+  85. Hard Target Head [2 occurrence(s)]
+  86. Hard Target Pants [1 occurrence(s)]
+  87. Heavy Hitter Body [2 occurrence(s)]
+  88. Heavy Hitter Head [3 occurrence(s)]
+  89. Heavy Hitter Pants [1 occurrence(s)]
+  90. Hunting Bow [5 occurrence(s)]
+  91. Iron Claw [5 occurrence(s)]
+  92. Iron Eagle Body [3 occurrence(s)]
+  93. Iron Eagle Body RE [3 occurrence(s)]
+  94. Iron Eagle Head [3 occurrence(s)]
+  95. Iron Eagle Head RE [3 occurrence(s)]
+  96. Iron Eagle Pants [3 occurrence(s)]
+  97. Iron Eagle Pants RE [3 occurrence(s)]
+  98. Iron Hammer [5 occurrence(s)]
+  99. Jackal Sword [2 occurrence(s)]
+ 100. Jackal Yo-Yo [1 occurrence(s)]
+ 101. Jungle Machete [5 occurrence(s)]
+ 102. KAMAS-A1 Assault Rifle [5 occurrence(s)]
+ 103. KAMAS-A1 Assault Rifle RE [4 occurrence(s)]
+ 104. KAMAS-WoT Assault Rifle01 [5 occurrence(s)]
+ 105. Kat Body 1 [1 occurrence(s)]
+ 106. Kat Boots 1 [1 occurrence(s)]
+ 107. Kat Head 1 [2 occurrence(s)]
+ 108. Kendo Body [1 occurrence(s)]
+ 109. Kendo Mask [2 occurrence(s)]
+ 110. Kendo Pants [1 occurrence(s)]
+ 111. Killer Wrestler Body [1 occurrence(s)]
+ 112. Killer Wrestler Head [3 occurrence(s)]
+ 113. Killer Wrestler Pants [2 occurrence(s)]
+ 114. Knight's Armor [1 occurrence(s)]
+ 115. Knight's Helm [2 occurrence(s)]
+ 116. Knight's Leggings [3 occurrence(s)]
+ 117. Knight’s Lance [4 occurrence(s)]
+ 118. Lightning Wand [5 occurrence(s)]
+ 119. Lightning Wand TDM [5 occurrence(s)]
+ 120. Lion Knuckles [5 occurrence(s)]
+ 121. Loaded Glove [5 occurrence(s)]
+ 122. Longsword [5 occurrence(s)]
+ 123. Longsword RE [4 occurrence(s)]
+ 124. M-404 Rocket Launcher [5 occurrence(s)]
+ 125. M-404 Rocket Launcher TDM [5 occurrence(s)]
+ 126. Masamune Blade [5 occurrence(s)]
+ 127. Masamune Blade TDM [5 occurrence(s)]
+ 128. Metal Bat [5 occurrence(s)]
+ 129. Motocross Head [3 occurrence(s)]
+ 130. Motocross Rider Body [1 occurrence(s)]
+ 131. Motocross Rider Pants [3 occurrence(s)]
+ 132. Motor Psycho [5 occurrence(s)]
+ 133. Motor Psycho TDM [5 occurrence(s)]
+ 134. Nail Gun [4 occurrence(s)]
+ 135. Night Raider Body WoT01 [3 occurrence(s)]
+ 136. Night Raider Head WoT01 [3 occurrence(s)]
+ 137. Night Raider Pants WoT01 [3 occurrence(s)]
+ 138. Night Scout Body [3 occurrence(s)]
+ 139. Night Scout Head [3 occurrence(s)]
+ 140. Night Scout Pants [4 occurrence(s)]
+ 141. Paladin Armor [3 occurrence(s)]
+ 142. Paladin Armor EW [1 occurrence(s)]
+ 143. Paladin Helmet [2 occurrence(s)]
+ 144. Paladin Leggings [3 occurrence(s)]
+ 145. Phantom Soldier Body [3 occurrence(s)]
+ 146. Phantom Soldier Body WoT01 [3 occurrence(s)]
+ 147. Phantom Soldier Head [3 occurrence(s)]
+ 148. Phantom Soldier Head WoT01 [3 occurrence(s)]
+ 149. Phantom Soldier Pants [3 occurrence(s)]
+ 150. Phantom Soldier Pants WoT01 [3 occurrence(s)]
+ 151. Pitbull Shotgun [4 occurrence(s)]
+ 152. Pork Chopper [5 occurrence(s)]
+ 153. Power Stomper Body [1 occurrence(s)]
+ 154. Power Stomper Mask [3 occurrence(s)]
+ 155. Power Stomper Pants [1 occurrence(s)]
+ 156. Priest's Coat [2 occurrence(s)]
+ 157. Priest's Cowl [2 occurrence(s)]
+ 158. Priest's Leggings [1 occurrence(s)]
+ 159. Pulse Stun Gun [2 occurrence(s)]
+ 160. Red Hot Iron [5 occurrence(s)]
+ 161. Road Shocker Coat [2 occurrence(s)]
+ 162. Road Shocker Head [3 occurrence(s)]
+ 163. Road Shocker Pants [3 occurrence(s)]
+ 164. Robber Crossbow [5 occurrence(s)]
+ 165. Rogue Armor [1 occurrence(s)]
+ 166. Rogue Helmet [3 occurrence(s)]
+ 167. Rogue Leggings [2 occurrence(s)]
+ 168. Sengoku Armor [2 occurrence(s)]
+ 169. Sengoku Armor BT [1 occurrence(s)]
+ 170. Sengoku Helmet [3 occurrence(s)]
+ 171. Sengoku Leggings [1 occurrence(s)]
+ 172. Silent Sniper Body [2 occurrence(s)]
+ 173. Silent Sniper Head [3 occurrence(s)]
+ 174. Silent Sniper Pants [2 occurrence(s)]
+ 175. Special Forces' Beret [2 occurrence(s)]
+ 176. Special Forces' Pants [1 occurrence(s)]
+ 177. Special Forces' Vest [1 occurrence(s)]
+ 178. Splatter 13 Body [2 occurrence(s)]
+ 179. Splatter 13 Boots [1 occurrence(s)]
+ 180. Splatter 13 Head [4 occurrence(s)]
+ 181. Steel Axe [5 occurrence(s)]
+ 182. Steel Soldier Apron [3 occurrence(s)]
+ 183. Steel Soldier Mask [2 occurrence(s)]
+ 184. Steel Soldier Pants [2 occurrence(s)]
+ 185. Steel Tribe Body [2 occurrence(s)]
+ 186. Steel Tribe Mask [3 occurrence(s)]
+ 187. Steel Tribe Pants [2 occurrence(s)]
+ 188. Striker Flail [5 occurrence(s)]
+ 189. Stun Rod [2 occurrence(s)]
+ 190. Swimming Master Body [1 occurrence(s)]
+ 191. Swimming Master Head [3 occurrence(s)]
+ 192. Swimming Master Pants [2 occurrence(s)]
+ 193. Sword Dancer Armor [1 occurrence(s)]
+ 194. Sword Dancer Head [2 occurrence(s)]
+ 195. Sword Dancer Leggings [1 occurrence(s)]
+ 196. Tactical Shovel [5 occurrence(s)]
+ 197. Tank Commander Armor Ver.1 [1 occurrence(s)]
+ 198. Tank Commander Helmet Ver.1 [2 occurrence(s)]
+ 199. Tank Commander Pants Ver.1 [1 occurrence(s)]
+ 200. Texas Farmer Coat [1 occurrence(s)]
+ 201. Texas Farmer Mask [2 occurrence(s)]
+ 202. Texas Farmer Pants [3 occurrence(s)]
+ 203. Timber Rebellion [5 occurrence(s)]
+ 204. Travis' Jacket 1 [1 occurrence(s)]
+ 205. Travis' Pants 1 [1 occurrence(s)]
+ 206. Travis' Sunglasses 1 [2 occurrence(s)]
+ 207. Trucker Apron [1 occurrence(s)]
+ 208. Trucker Hat [2 occurrence(s)]
+ 209. Trucker Pants [1 occurrence(s)]
+ 210. Violent Grinder Body [1 occurrence(s)]
+ 211. Violent Grinder Head [2 occurrence(s)]
+ 212. Violent Grinder Pants [1 occurrence(s)]
+ 213. Warrior Armor [4 occurrence(s)]
+ 214. Warrior Helmet [4 occurrence(s)]
+ 215. Warrior Leggings [2 occurrence(s)]
+ 216. Welding Gun [5 occurrence(s)]
+
+================================================================================
+DUPLICATE BASE CANDIDATES
+================================================================================
+
+Agamemnon Leggings [2 occurrences]
+    Agamemnon Leggings | Table #1 | https://letitdie.wiki.gg/wiki/Agamemnon_Leggings
+    Avatar of Zard Leggings | Table #1 | https://letitdie.wiki.gg/wiki/Avatar_of_Zard_Leggings
+
+Agamemnon Mask [3 occurrences]
+    Agamemnon Mask | Table #1 | https://letitdie.wiki.gg/wiki/Agamemnon_Mask
+    Agamemnon Set | Table #1 | https://letitdie.wiki.gg/wiki/Agamemnon_Set
+    Avatar of Zard Mask | Table #1 | https://letitdie.wiki.gg/wiki/Avatar_of_Zard_Mask
+
+Apocalyptic Hockey Body [3 occurrences]
+    Apocalyptic Hockey Body | Table #1 | https://letitdie.wiki.gg/wiki/Apocalyptic_Hockey_Body
+    Murderer Hockey Body | Table #1 | https://letitdie.wiki.gg/wiki/Murderer_Hockey_Body
+    Murderer Hockey Body A | Table #1 | https://letitdie.wiki.gg/wiki/Murderer_Hockey_Body_A
+
+Apocalyptic Hockey Mask [3 occurrences]
+    Apocalyptic Hockey Mask | Table #1 | https://letitdie.wiki.gg/wiki/Apocalyptic_Hockey_Mask
+    Apocalyptic Hockey Set | Table #1 | https://letitdie.wiki.gg/wiki/Apocalyptic_Hockey_Set
+    Murderer Hockey Mask A | Table #1 | https://letitdie.wiki.gg/wiki/Murderer_Hockey_Mask_A
+
+Apocalyptic Hockey Pants [3 occurrences]
+    Apocalyptic Hockey Pants | Table #1 | https://letitdie.wiki.gg/wiki/Apocalyptic_Hockey_Pants
+    Murderer Hockey Pants | Table #1 | https://letitdie.wiki.gg/wiki/Murderer_Hockey_Pants
+    Murderer Hockey Pants A | Table #1 | https://letitdie.wiki.gg/wiki/Murderer_Hockey_Pants_A
+
+Apocalyptic Hockey Stick [5 occurrences]
+    Apocalyptic Hockey Stick | Table #1 | https://letitdie.wiki.gg/wiki/Apocalyptic_Hockey_Stick
+    Apocalyptic Hockey Stick A | Table #1 | https://letitdie.wiki.gg/wiki/Apocalyptic_Hockey_Stick_A
+    Hockey Stick | Table #1 | https://letitdie.wiki.gg/wiki/Hockey_Stick
+    Murderer's Hockey Stick | Table #1 | https://letitdie.wiki.gg/wiki/Murderer%27s_Hockey_Stick
+    Murderer's Hockey Stick A | Table #1 | https://letitdie.wiki.gg/wiki/Murderer%27s_Hockey_Stick_A
+
+Barrett Punisher Body [3 occurrences]
+    Barrett Punisher Body | Table #1 | https://letitdie.wiki.gg/wiki/Barrett_Punisher_Body
+    Skull Punisher Body | Table #1 | https://letitdie.wiki.gg/wiki/Skull_Punisher_Body
+    Skull Punisher Body E | Table #1 | https://letitdie.wiki.gg/wiki/Skull_Punisher_Body_E
+
+Barrett Punisher Head [3 occurrences]
+    Barrett Punisher Head | Table #1 | https://letitdie.wiki.gg/wiki/Barrett_Punisher_Head
+    Barrett Punisher Set | Table #1 | https://letitdie.wiki.gg/wiki/Barrett_Punisher_Set
+    Skull Punisher Head E | Table #1 | https://letitdie.wiki.gg/wiki/Skull_Punisher_Head_E
+
+Barrett Punisher Pants [3 occurrences]
+    Barrett Punisher Pants | Table #1 | https://letitdie.wiki.gg/wiki/Barrett_Punisher_Pants
+    Skull Punisher Pants | Table #1 | https://letitdie.wiki.gg/wiki/Skull_Punisher_Pants
+    Skull Punisher Pants E | Table #1 | https://letitdie.wiki.gg/wiki/Skull_Punisher_Pants_E
+
+Beam Katana 1 [5 occurrences]
+    Beam Katana | Table #1 | https://letitdie.wiki.gg/wiki/Beam_Katana
+    Beam Katana 1 | Table #1 | https://letitdie.wiki.gg/wiki/Beam_Katana_1
+    Beam Katana 2 | Table #1 | https://letitdie.wiki.gg/wiki/Beam_Katana_2
+    Beam Katana 3 | Table #1 | https://letitdie.wiki.gg/wiki/Beam_Katana_3
+    Beam Katana 4 | Table #1 | https://letitdie.wiki.gg/wiki/Beam_Katana_4
+
+Blitz Bowler Body [3 occurrences]
+    Blitz Bowler Body | Table #1 | https://letitdie.wiki.gg/wiki/Blitz_Bowler_Body
+    Raging Bull Body | Table #1 | https://letitdie.wiki.gg/wiki/Raging_Bull_Body
+    Raging Bull Body A | Table #1 | https://letitdie.wiki.gg/wiki/Raging_Bull_Body_A
+
+Blitz Bowler Head [3 occurrences]
+    Blitz Bowler Head | Table #1 | https://letitdie.wiki.gg/wiki/Blitz_Bowler_Head
+    Blitz Bowler Set | Table #1 | https://letitdie.wiki.gg/wiki/Blitz_Bowler_Set
+    Raging Bull Head A | Table #1 | https://letitdie.wiki.gg/wiki/Raging_Bull_Head_A
+
+Blitz Bowler Pants [2 occurrences]
+    Blitz Bowler Pants | Table #1 | https://letitdie.wiki.gg/wiki/Blitz_Bowler_Pants
+    Raging Bull Pants A | Table #1 | https://letitdie.wiki.gg/wiki/Raging_Bull_Pants_A
+
+Bloody Pitching Machine [5 occurrences]
+    Bloody Pitching Machine | Table #1 | https://letitdie.wiki.gg/wiki/Bloody_Pitching_Machine
+    Bloody Pitching Machine A | Table #1 | https://letitdie.wiki.gg/wiki/Bloody_Pitching_Machine_A
+    Ghastly Pitching Machine | Table #1 | https://letitdie.wiki.gg/wiki/Ghastly_Pitching_Machine
+    Ghastly Pitching Machine A | Table #1 | https://letitdie.wiki.gg/wiki/Ghastly_Pitching_Machine_A
+    Pitching Machine | Table #1 | https://letitdie.wiki.gg/wiki/Pitching_Machine
+
+Bloody Pitching Machine TDM [5 occurrences]
+    Bloody Pitching Machine A TDM | Table #1 | https://letitdie.wiki.gg/wiki/Bloody_Pitching_Machine_A_TDM
+    Bloody Pitching Machine TDM | Table #1 | https://letitdie.wiki.gg/wiki/Bloody_Pitching_Machine_TDM
+    Ghastly Pitching Machine A TDM | Table #1 | https://letitdie.wiki.gg/wiki/Ghastly_Pitching_Machine_A_TDM
+    Ghastly Pitching Machine TDM | Table #1 | https://letitdie.wiki.gg/wiki/Ghastly_Pitching_Machine_TDM
+    TDM Pitching Machine | Table #1 | https://letitdie.wiki.gg/wiki/TDM_Pitching_Machine
+
+Bowling Stomper [5 occurrences]
+    Bowling Ball | Table #1 | https://letitdie.wiki.gg/wiki/Bowling_Ball
+    Bowling Crusher | Table #1 | https://letitdie.wiki.gg/wiki/Bowling_Crusher
+    Bowling Crusher A | Table #1 | https://letitdie.wiki.gg/wiki/Bowling_Crusher_A
+    Bowling Stomper | Table #1 | https://letitdie.wiki.gg/wiki/Bowling_Stomper
+    Bowling Stomper A | Table #1 | https://letitdie.wiki.gg/wiki/Bowling_Stomper_A
+
+Bowling Stomper TDM [5 occurrences]
+    Bowling Crusher A TDM | Table #1 | https://letitdie.wiki.gg/wiki/Bowling_Crusher_A_TDM
+    Bowling Crusher TDM | Table #1 | https://letitdie.wiki.gg/wiki/Bowling_Crusher_TDM
+    Bowling Stomper A TDM | Table #1 | https://letitdie.wiki.gg/wiki/Bowling_Stomper_A_TDM
+    Bowling Stomper TDM | Table #1 | https://letitdie.wiki.gg/wiki/Bowling_Stomper_TDM
+    TDM Bowling Ball | Table #1 | https://letitdie.wiki.gg/wiki/TDM_Bowling_Ball
+
+Brutal Yo-Yo [4 occurrences]
+    Brutal Yo-Yo | Table #1 | https://letitdie.wiki.gg/wiki/Brutal_Yo-Yo
+    Brutal Yo-Yo A | Table #1 | https://letitdie.wiki.gg/wiki/Brutal_Yo-Yo_A
+    Yo-Yo Blade | Table #1 | https://letitdie.wiki.gg/wiki/Yo-Yo_Blade
+    Yo-Yo Blade A | Table #1 | https://letitdie.wiki.gg/wiki/Yo-Yo_Blade_A
+
+Butterfly Knife [5 occurrences]
+    Butterfly Knife | Table #1 | https://letitdie.wiki.gg/wiki/Butterfly_Knife
+    Butterfly Knife E | Table #1 | https://letitdie.wiki.gg/wiki/Butterfly_Knife_E
+    Combat Knife | Table #1 | https://letitdie.wiki.gg/wiki/Combat_Knife
+    Combat Knife E | Table #1 | https://letitdie.wiki.gg/wiki/Combat_Knife_E
+    Knife | Table #1 | https://letitdie.wiki.gg/wiki/Knife
+
+Buzzsaw Knuckles [5 occurrences]
+    Buzzsaw | Table #1 | https://letitdie.wiki.gg/wiki/Buzzsaw
+    Buzzsaw Knuckles | Table #1 | https://letitdie.wiki.gg/wiki/Buzzsaw_Knuckles
+    Buzzsaw Knuckles + | Table #1 | https://letitdie.wiki.gg/wiki/Buzzsaw_Knuckles_%2B
+    Buzzsaw Masher | Table #1 | https://letitdie.wiki.gg/wiki/Buzzsaw_Masher
+    Buzzsaw Masher + | Table #1 | https://letitdie.wiki.gg/wiki/Buzzsaw_Masher_%2B
+
+Chainsaw Viper [5 occurrences]
+    Chainsaw | Table #1 | https://letitdie.wiki.gg/wiki/Chainsaw
+    Chainsaw Shark | Table #1 | https://letitdie.wiki.gg/wiki/Chainsaw_Shark
+    Chainsaw Shark + | Table #1 | https://letitdie.wiki.gg/wiki/Chainsaw_Shark_%2B
+    Chainsaw Viper | Table #1 | https://letitdie.wiki.gg/wiki/Chainsaw_Viper
+    Chainsaw Viper + | Table #1 | https://letitdie.wiki.gg/wiki/Chainsaw_Viper_%2B
+
+Chemical Agent Body [2 occurrences]
+    Chemical Agent Body | Table #1 | https://letitdie.wiki.gg/wiki/Chemical_Agent_Body
+    Chemical Chaos Body + | Table #1 | https://letitdie.wiki.gg/wiki/Chemical_Chaos_Body_%2B
+
+Chemical Agent Mask [3 occurrences]
+    Chemical Agent Mask | Table #1 | https://letitdie.wiki.gg/wiki/Chemical_Agent_Mask
+    Chemical Agent Set | Table #1 | https://letitdie.wiki.gg/wiki/Chemical_Agent_Set
+    Chemical Chaos Mask + | Table #1 | https://letitdie.wiki.gg/wiki/Chemical_Chaos_Mask_%2B
+
+Chemical Agent Pants [3 occurrences]
+    Chemical Agent Pants | Table #1 | https://letitdie.wiki.gg/wiki/Chemical_Agent_Pants
+    Chemical Chaos Pants | Table #1 | https://letitdie.wiki.gg/wiki/Chemical_Chaos_Pants
+    Chemical Chaos Pants + | Table #1 | https://letitdie.wiki.gg/wiki/Chemical_Chaos_Pants_%2B
+
+Clay Figurine Armor [3 occurrences]
+    Clay Figurine Armor | Table #1 | https://letitdie.wiki.gg/wiki/Clay_Figurine_Armor
+    Clay Figurine RE Set | Table #6 | https://letitdie.wiki.gg/wiki/Clay_Figurine_RE_Set
+    Clay Figurine Set | Table #6 | https://letitdie.wiki.gg/wiki/Clay_Figurine_Set
+
+Clay Figurine Armor RE [3 occurrences]
+    Clay Figurine Armor RE | Table #1 | https://letitdie.wiki.gg/wiki/Clay_Figurine_Armor_RE
+    Clay Figurine RE Set | Table #21 | https://letitdie.wiki.gg/wiki/Clay_Figurine_RE_Set
+    Clay Figurine Set | Table #21 | https://letitdie.wiki.gg/wiki/Clay_Figurine_Set
+
+Clay Figurine Helmet [4 occurrences]
+    Arahabaki Helmet | Table #1 | https://letitdie.wiki.gg/wiki/Arahabaki_Helmet
+    Clay Figurine Helmet | Table #1 | https://letitdie.wiki.gg/wiki/Clay_Figurine_Helmet
+    Clay Figurine RE Set | Table #1 | https://letitdie.wiki.gg/wiki/Clay_Figurine_RE_Set
+    Clay Figurine Set | Table #1 | https://letitdie.wiki.gg/wiki/Clay_Figurine_Set
+
+Clay Figurine Helmet RE [3 occurrences]
+    Clay Figurine Helmet RE | Table #1 | https://letitdie.wiki.gg/wiki/Clay_Figurine_Helmet_RE
+    Clay Figurine RE Set | Table #16 | https://letitdie.wiki.gg/wiki/Clay_Figurine_RE_Set
+    Clay Figurine Set | Table #16 | https://letitdie.wiki.gg/wiki/Clay_Figurine_Set
+
+Clay Figurine Leggings [3 occurrences]
+    Clay Figurine Leggings | Table #1 | https://letitdie.wiki.gg/wiki/Clay_Figurine_Leggings
+    Clay Figurine RE Set | Table #11 | https://letitdie.wiki.gg/wiki/Clay_Figurine_RE_Set
+    Clay Figurine Set | Table #11 | https://letitdie.wiki.gg/wiki/Clay_Figurine_Set
+
+Clay Figurine Leggings RE [3 occurrences]
+    Clay Figurine Leggings RE | Table #1 | https://letitdie.wiki.gg/wiki/Clay_Figurine_Leggings_RE
+    Clay Figurine RE Set | Table #26 | https://letitdie.wiki.gg/wiki/Clay_Figurine_RE_Set
+    Clay Figurine Set | Table #26 | https://letitdie.wiki.gg/wiki/Clay_Figurine_Set
+
+Cleaver Saber [5 occurrences]
+    Cleaver Saber | Table #1 | https://letitdie.wiki.gg/wiki/Cleaver_Saber
+    Cleaver Saber A | Table #1 | https://letitdie.wiki.gg/wiki/Cleaver_Saber_A
+    Hornet Saber | Table #1 | https://letitdie.wiki.gg/wiki/Hornet_Saber
+    Hornet Saber A | Table #1 | https://letitdie.wiki.gg/wiki/Hornet_Saber_A
+    Saber | Table #1 | https://letitdie.wiki.gg/wiki/Saber
+
+Cleaver Saber TDM [5 occurrences]
+    Cleaver Saber A TDM | Table #1 | https://letitdie.wiki.gg/wiki/Cleaver_Saber_A_TDM
+    Cleaver Saber TDM | Table #1 | https://letitdie.wiki.gg/wiki/Cleaver_Saber_TDM
+    Hornet Saber A TDM | Table #1 | https://letitdie.wiki.gg/wiki/Hornet_Saber_A_TDM
+    Hornet Saber TDM | Table #1 | https://letitdie.wiki.gg/wiki/Hornet_Saber_TDM
+    TDM Saber | Table #1 | https://letitdie.wiki.gg/wiki/TDM_Saber
+
+Combat Diver Head [2 occurrences]
+    Combat Diver Head | Table #1 | https://letitdie.wiki.gg/wiki/Combat_Diver_Head
+    Combat Diver Set | Table #1 | https://letitdie.wiki.gg/wiki/Combat_Diver_Set
+
+Combat Pickaxe [5 occurrences]
+    Combat Pickaxe | Table #1 | https://letitdie.wiki.gg/wiki/Combat_Pickaxe
+    Definitive Combat Pickaxe | Table #1 | https://letitdie.wiki.gg/wiki/Definitive_Combat_Pickaxe
+    Murderous Rake | Table #1 | https://letitdie.wiki.gg/wiki/Murderous_Rake
+    Murderous Rake + | Table #1 | https://letitdie.wiki.gg/wiki/Murderous_Rake_%2B
+    Pickaxe | Table #1 | https://letitdie.wiki.gg/wiki/Pickaxe
+
+Cycle Madness Head [2 occurrences]
+    Cycle Madness Head | Table #1 | https://letitdie.wiki.gg/wiki/Cycle_Madness_Head
+    Cycle Madness Set | Table #1 | https://letitdie.wiki.gg/wiki/Cycle_Madness_Set
+
+Cyclone Shuriken [5 occurrences]
+    Cyclone Shuriken | Table #1 | https://letitdie.wiki.gg/wiki/Cyclone_Shuriken
+    Cyclone Shuriken S | Table #1 | https://letitdie.wiki.gg/wiki/Cyclone_Shuriken_S
+    Shuriken | Table #1 | https://letitdie.wiki.gg/wiki/Shuriken
+    Tornado Shuriken | Table #1 | https://letitdie.wiki.gg/wiki/Tornado_Shuriken
+    Tornado Shuriken S | Table #1 | https://letitdie.wiki.gg/wiki/Tornado_Shuriken_S
+
+Dark Ryback Mask [4 occurrences]
+    Dark Ryback Mask | Table #1 | https://letitdie.wiki.gg/wiki/Dark_Ryback_Mask
+    Dark Ryback Mask E | Table #1 | https://letitdie.wiki.gg/wiki/Dark_Ryback_Mask_E
+    Dark Ryback Set | Table #1 | https://letitdie.wiki.gg/wiki/Dark_Ryback_Set
+    Officer Ryback Mask E | Table #1 | https://letitdie.wiki.gg/wiki/Officer_Ryback_Mask_E
+
+Dark Ryback Pants [2 occurrences]
+    Dark Ryback Pants | Table #1 | https://letitdie.wiki.gg/wiki/Dark_Ryback_Pants
+    Officer Ryback Pants E | Table #1 | https://letitdie.wiki.gg/wiki/Officer_Ryback_Pants_E
+
+Demon Gun 1 [5 occurrences]
+    Demon Gun | Table #1 | https://letitdie.wiki.gg/wiki/Demon_Gun
+    Demon Gun 1 | Table #1 | https://letitdie.wiki.gg/wiki/Demon_Gun_1
+    Demon Gun 2 | Table #1 | https://letitdie.wiki.gg/wiki/Demon_Gun_2
+    Demon Gun 3 | Table #1 | https://letitdie.wiki.gg/wiki/Demon_Gun_3
+    Demon Gun 4 | Table #1 | https://letitdie.wiki.gg/wiki/Demon_Gun_4
+
+DIY Attack Head [3 occurrences]
+    DIY Assault Head | Table #1 | https://letitdie.wiki.gg/wiki/DIY_Assault_Head
+    DIY Attack Head | Table #1 | https://letitdie.wiki.gg/wiki/DIY_Attack_Head
+    DIY Attack Set | Table #1 | https://letitdie.wiki.gg/wiki/DIY_Attack_Set
+
+Doctor Drill Mask [3 occurrences]
+    Doctor Drill Mask | Table #1 | https://letitdie.wiki.gg/wiki/Doctor_Drill_Mask
+    Doctor Drill Set | Table #1 | https://letitdie.wiki.gg/wiki/Doctor_Drill_Set
+    Driller Killer Mask + | Table #1 | https://letitdie.wiki.gg/wiki/Driller_Killer_Mask_%2B
+
+Drill Arm [5 occurrences]
+    Drill | Table #1 | https://letitdie.wiki.gg/wiki/Drill
+    Drill Arm | Table #1 | https://letitdie.wiki.gg/wiki/Drill_Arm
+    Drill Arm + | Table #1 | https://letitdie.wiki.gg/wiki/Drill_Arm_%2B
+    Drill Buster | Table #1 | https://letitdie.wiki.gg/wiki/Drill_Buster
+    Drill Buster + | Table #1 | https://letitdie.wiki.gg/wiki/Drill_Buster_%2B
+
+Drill Arm TDM [5 occurrences]
+    Drill Arm + TDM | Table #1 | https://letitdie.wiki.gg/wiki/Drill_Arm_%2B_TDM
+    Drill Arm TDM | Table #1 | https://letitdie.wiki.gg/wiki/Drill_Arm_TDM
+    Drill Buster + TDM | Table #1 | https://letitdie.wiki.gg/wiki/Drill_Buster_%2B_TDM
+    Drill Buster TDM | Table #1 | https://letitdie.wiki.gg/wiki/Drill_Buster_TDM
+    TDM Drill | Table #1 | https://letitdie.wiki.gg/wiki/TDM_Drill
+
+DUKE-02 Sniper Rifle [5 occurrences]
+    DUKE-02 Sniper Rifle | Table #1 | https://letitdie.wiki.gg/wiki/DUKE-02_Sniper_Rifle
+    DUKE-02 Sniper Rifle E | Table #1 | https://letitdie.wiki.gg/wiki/DUKE-02_Sniper_Rifle_E
+    DUKE-13 Sniper Rifle | Table #1 | https://letitdie.wiki.gg/wiki/DUKE-13_Sniper_Rifle
+    DUKE-13 Sniper Rifle E | Table #1 | https://letitdie.wiki.gg/wiki/DUKE-13_Sniper_Rifle_E
+    Sniper Rifle | Table #1 | https://letitdie.wiki.gg/wiki/Sniper_Rifle
+
+Evil Wizard Cowl [2 occurrences]
+    Evil Wizard Cowl | Table #1 | https://letitdie.wiki.gg/wiki/Evil_Wizard_Cowl
+    Evil Wizard Set | Table #1 | https://letitdie.wiki.gg/wiki/Evil_Wizard_Set
+
+Evil Wizard Leggings [2 occurrences]
+    Evil Wizard Leggings | Table #1 | https://letitdie.wiki.gg/wiki/Evil_Wizard_Leggings
+    Manic Wizard Leggings S | Table #1 | https://letitdie.wiki.gg/wiki/Manic_Wizard_Leggings_S
+
+Exo-armor Head [2 occurrences]
+    Exo-armor Head | Table #1 | https://letitdie.wiki.gg/wiki/Exo-armor_Head
+    Exo-armor Set | Table #1 | https://letitdie.wiki.gg/wiki/Exo-armor_Set
+
+Fencing Armor [3 occurrences]
+    Fencing Armor | Table #1 | https://letitdie.wiki.gg/wiki/Fencing_Armor
+    Swordmaster Armor | Table #1 | https://letitdie.wiki.gg/wiki/Swordmaster_Armor
+    Swordmaster Armor S | Table #1 | https://letitdie.wiki.gg/wiki/Swordmaster_Armor_S
+
+Fencing Helmet [3 occurrences]
+    Fencing Helmet | Table #1 | https://letitdie.wiki.gg/wiki/Fencing_Helmet
+    Fencing Set | Table #1 | https://letitdie.wiki.gg/wiki/Fencing_Set
+    Swordmaster Helmet S | Table #1 | https://letitdie.wiki.gg/wiki/Swordmaster_Helmet_S
+
+FFWF-103 Flamethrower [5 occurrences]
+    FFWF-103 Flamethrower | Table #1 | https://letitdie.wiki.gg/wiki/FFWF-103_Flamethrower
+    FFWF-103 Flamethrower E | Table #1 | https://letitdie.wiki.gg/wiki/FFWF-103_Flamethrower_E
+    FFWF-285 Flamethrower | Table #1 | https://letitdie.wiki.gg/wiki/FFWF-285_Flamethrower
+    FFWF-285 Flamethrower E | Table #1 | https://letitdie.wiki.gg/wiki/FFWF-285_Flamethrower_E
+    Flamethrower | Table #1 | https://letitdie.wiki.gg/wiki/Flamethrower
+
+FFWF-103 Flamethrower TDM [5 occurrences]
+    FFWF-103 Flamethrower E TDM | Table #1 | https://letitdie.wiki.gg/wiki/FFWF-103_Flamethrower_E_TDM
+    FFWF-103 Flamethrower TDM | Table #1 | https://letitdie.wiki.gg/wiki/FFWF-103_Flamethrower_TDM
+    FFWF-285 Flamethrower E TDM | Table #1 | https://letitdie.wiki.gg/wiki/FFWF-285_Flamethrower_E_TDM
+    FFWF-285 Flamethrower TDM | Table #1 | https://letitdie.wiki.gg/wiki/FFWF-285_Flamethrower_TDM
+    TDM Flamethrower | Table #1 | https://letitdie.wiki.gg/wiki/TDM_Flamethrower
+
+Fireball Baton [5 occurrences]
+    Fire Baton | Table #1 | https://letitdie.wiki.gg/wiki/Fire_Baton
+    Fireball Baton | Table #1 | https://letitdie.wiki.gg/wiki/Fireball_Baton
+    Fireball Baton A | Table #1 | https://letitdie.wiki.gg/wiki/Fireball_Baton_A
+    Inferno Baton | Table #1 | https://letitdie.wiki.gg/wiki/Inferno_Baton
+    Inferno Baton A | Table #1 | https://letitdie.wiki.gg/wiki/Inferno_Baton_A
+
+Fireworks Launcher [5 occurrences]
+    Fireworks | Table #1 | https://letitdie.wiki.gg/wiki/Fireworks
+    Fireworks Blaster | Table #1 | https://letitdie.wiki.gg/wiki/Fireworks_Blaster
+    Fireworks Blaster + | Table #1 | https://letitdie.wiki.gg/wiki/Fireworks_Blaster_%2B
+    Fireworks Launcher | Table #1 | https://letitdie.wiki.gg/wiki/Fireworks_Launcher
+    Fireworks Launcher + | Table #1 | https://letitdie.wiki.gg/wiki/Fireworks_Launcher_%2B
+
+Flame Wand [5 occurrences]
+    Fire Rod | Table #1 | https://letitdie.wiki.gg/wiki/Fire_Rod
+    Flame Wand | Table #1 | https://letitdie.wiki.gg/wiki/Flame_Wand
+    Flame Wand S | Table #1 | https://letitdie.wiki.gg/wiki/Flame_Wand_S
+    Wand of Conflagration | Table #1 | https://letitdie.wiki.gg/wiki/Wand_of_Conflagration
+    Wand of Conflagration S | Table #1 | https://letitdie.wiki.gg/wiki/Wand_of_Conflagration_S
+
+GLIDER 1 [5 occurrences]
+    GLIDER | Table #1 | https://letitdie.wiki.gg/wiki/GLIDER
+    GLIDER 1 | Table #1 | https://letitdie.wiki.gg/wiki/GLIDER_1
+    GLIDER 2 | Table #1 | https://letitdie.wiki.gg/wiki/GLIDER_2
+    GLIDER 3 | Table #1 | https://letitdie.wiki.gg/wiki/GLIDER_3
+    GLIDER 4 | Table #1 | https://letitdie.wiki.gg/wiki/GLIDER_4
+
+Glinty Magnum [5 occurrences]
+    Bronson Magnum | Table #1 | https://letitdie.wiki.gg/wiki/Bronson_Magnum
+    Bronson Magnum E | Table #1 | https://letitdie.wiki.gg/wiki/Bronson_Magnum_E
+    Glinty Magnum | Table #1 | https://letitdie.wiki.gg/wiki/Glinty_Magnum
+    Glinty Magnum E | Table #1 | https://letitdie.wiki.gg/wiki/Glinty_Magnum_E
+    Magnum | Table #1 | https://letitdie.wiki.gg/wiki/Magnum
+
+Guerrilla Blaster Body [2 occurrences]
+    Guerrilla Blaster Body | Table #1 | https://letitdie.wiki.gg/wiki/Guerrilla_Blaster_Body
+    Raven Blaster Body E | Table #1 | https://letitdie.wiki.gg/wiki/Raven_Blaster_Body_E
+
+Guerrilla Blaster Head [3 occurrences]
+    Guerrilla Blaster Head | Table #1 | https://letitdie.wiki.gg/wiki/Guerrilla_Blaster_Head
+    Guerrilla Blaster Set | Table #1 | https://letitdie.wiki.gg/wiki/Guerrilla_Blaster_Set
+    Raven Blaster Head | Table #1 | https://letitdie.wiki.gg/wiki/Raven_Blaster_Head
+
+Happy Wheeler Body [2 occurrences]
+    Happy Wheeler Body | Table #1 | https://letitdie.wiki.gg/wiki/Happy_Wheeler_Body
+    Wheel Assassin Body + | Table #1 | https://letitdie.wiki.gg/wiki/Wheel_Assassin_Body_%2B
+
+Happy Wheeler Head [3 occurrences]
+    Happy Wheeler Head | Table #1 | https://letitdie.wiki.gg/wiki/Happy_Wheeler_Head
+    Happy Wheeler Set | Table #1 | https://letitdie.wiki.gg/wiki/Happy_Wheeler_Set
+    Wheel Assassin Head + | Table #1 | https://letitdie.wiki.gg/wiki/Wheel_Assassin_Head_%2B
+
+Happy Wheeler Pants [2 occurrences]
+    Happy Wheeler Pants | Table #1 | https://letitdie.wiki.gg/wiki/Happy_Wheeler_Pants
+    Wheel Assassin Pants + | Table #1 | https://letitdie.wiki.gg/wiki/Wheel_Assassin_Pants_%2B
+
+Hard Puncher Body [2 occurrences]
+    Hard Puncher Body | Table #1 | https://letitdie.wiki.gg/wiki/Hard_Puncher_Body
+    King Smasher Body A | Table #1 | https://letitdie.wiki.gg/wiki/King_Smasher_Body_A
+
+Hard Puncher Head [3 occurrences]
+    Hard Puncher Head | Table #1 | https://letitdie.wiki.gg/wiki/Hard_Puncher_Head
+    Hard Puncher Set | Table #1 | https://letitdie.wiki.gg/wiki/Hard_Puncher_Set
+    King Smasher Head | Table #1 | https://letitdie.wiki.gg/wiki/King_Smasher_Head
+
+Hard Puncher Pants [2 occurrences]
+    Hard Puncher Pants | Table #1 | https://letitdie.wiki.gg/wiki/Hard_Puncher_Pants
+    King Smasher Pants A | Table #1 | https://letitdie.wiki.gg/wiki/King_Smasher_Pants_A
+
+Hard Target Head [2 occurrences]
+    Hard Target Head | Table #1 | https://letitdie.wiki.gg/wiki/Hard_Target_Head
+    Hard Target Set | Table #1 | https://letitdie.wiki.gg/wiki/Hard_Target_Set
+
+Heavy Hitter Body [2 occurrences]
+    Heavy Hitter Body | Table #1 | https://letitdie.wiki.gg/wiki/Heavy_Hitter_Body
+    Hell Slugger Body A | Table #1 | https://letitdie.wiki.gg/wiki/Hell_Slugger_Body_A
+
+Heavy Hitter Head [3 occurrences]
+    Heavy Hitter Head | Table #1 | https://letitdie.wiki.gg/wiki/Heavy_Hitter_Head
+    Heavy Hitter Head A | Table #1 | https://letitdie.wiki.gg/wiki/Heavy_Hitter_Head_A
+    Heavy Hitter Set | Table #1 | https://letitdie.wiki.gg/wiki/Heavy_Hitter_Set
+
+Hunting Bow [5 occurrences]
+    Archer's Bow | Table #1 | https://letitdie.wiki.gg/wiki/Archer%27s_Bow
+    Hunting Bow | Table #1 | https://letitdie.wiki.gg/wiki/Hunting_Bow
+    Hunting Bow A | Table #1 | https://letitdie.wiki.gg/wiki/Hunting_Bow_A
+    Stinger Bow | Table #1 | https://letitdie.wiki.gg/wiki/Stinger_Bow
+    Stinger Bow A | Table #1 | https://letitdie.wiki.gg/wiki/Stinger_Bow_A
+
+Iron Claw [5 occurrences]
+    Claws | Table #1 | https://letitdie.wiki.gg/wiki/Claws
+    Iron Claw | Table #1 | https://letitdie.wiki.gg/wiki/Iron_Claw
+    Iron Claw S | Table #1 | https://letitdie.wiki.gg/wiki/Iron_Claw_S
+    Nightmare Claw | Table #1 | https://letitdie.wiki.gg/wiki/Nightmare_Claw
+    Nightmare Claw S | Table #1 | https://letitdie.wiki.gg/wiki/Nightmare_Claw_S
+
+Iron Eagle Body [3 occurrences]
+    Iron Eagle Body | Table #1 | https://letitdie.wiki.gg/wiki/Iron_Eagle_Body
+    Iron Eagle RE Set | Table #6 | https://letitdie.wiki.gg/wiki/Iron_Eagle_RE_Set
+    Iron Eagle Set | Table #6 | https://letitdie.wiki.gg/wiki/Iron_Eagle_Set
+
+Iron Eagle Body RE [3 occurrences]
+    Iron Eagle Body RE | Table #1 | https://letitdie.wiki.gg/wiki/Iron_Eagle_Body_RE
+    Iron Eagle RE Set | Table #21 | https://letitdie.wiki.gg/wiki/Iron_Eagle_RE_Set
+    Iron Eagle Set | Table #21 | https://letitdie.wiki.gg/wiki/Iron_Eagle_Set
+
+Iron Eagle Head [3 occurrences]
+    Iron Eagle Head | Table #1 | https://letitdie.wiki.gg/wiki/Iron_Eagle_Head
+    Iron Eagle RE Set | Table #1 | https://letitdie.wiki.gg/wiki/Iron_Eagle_RE_Set
+    Iron Eagle Set | Table #1 | https://letitdie.wiki.gg/wiki/Iron_Eagle_Set
+
+Iron Eagle Head RE [3 occurrences]
+    Iron Eagle Head RE | Table #1 | https://letitdie.wiki.gg/wiki/Iron_Eagle_Head_RE
+    Iron Eagle RE Set | Table #16 | https://letitdie.wiki.gg/wiki/Iron_Eagle_RE_Set
+    Iron Eagle Set | Table #16 | https://letitdie.wiki.gg/wiki/Iron_Eagle_Set
+
+Iron Eagle Pants [3 occurrences]
+    Iron Eagle Pants | Table #1 | https://letitdie.wiki.gg/wiki/Iron_Eagle_Pants
+    Iron Eagle RE Set | Table #11 | https://letitdie.wiki.gg/wiki/Iron_Eagle_RE_Set
+    Iron Eagle Set | Table #11 | https://letitdie.wiki.gg/wiki/Iron_Eagle_Set
+
+Iron Eagle Pants RE [3 occurrences]
+    Iron Eagle Pants RE | Table #1 | https://letitdie.wiki.gg/wiki/Iron_Eagle_Pants_RE
+    Iron Eagle RE Set | Table #26 | https://letitdie.wiki.gg/wiki/Iron_Eagle_RE_Set
+    Iron Eagle Set | Table #26 | https://letitdie.wiki.gg/wiki/Iron_Eagle_Set
+
+Iron Hammer [5 occurrences]
+    Hammer | Table #1 | https://letitdie.wiki.gg/wiki/Hammer
+    Iron Hammer | Table #1 | https://letitdie.wiki.gg/wiki/Iron_Hammer
+    Iron Hammer + | Table #1 | https://letitdie.wiki.gg/wiki/Iron_Hammer_%2B
+    Strike Hammer | Table #1 | https://letitdie.wiki.gg/wiki/Strike_Hammer
+    Strike Hammer + | Table #1 | https://letitdie.wiki.gg/wiki/Strike_Hammer_%2B
+
+Jackal Sword [2 occurrences]
+    Jackal Sword | Table #1 | https://letitdie.wiki.gg/wiki/Jackal_Sword
+    Jackal Sword R | Table #1 | https://letitdie.wiki.gg/wiki/Jackal_Sword_R
+
+Jungle Machete [5 occurrences]
+    Battle Machete | Table #1 | https://letitdie.wiki.gg/wiki/Battle_Machete
+    Battle Machete E | Table #1 | https://letitdie.wiki.gg/wiki/Battle_Machete_E
+    Jungle Machete | Table #1 | https://letitdie.wiki.gg/wiki/Jungle_Machete
+    Jungle Machete E | Table #1 | https://letitdie.wiki.gg/wiki/Jungle_Machete_E
+    Machete | Table #1 | https://letitdie.wiki.gg/wiki/Machete
+
+KAMAS-A1 Assault Rifle [5 occurrences]
+    Assault Rifle | Table #1 | https://letitdie.wiki.gg/wiki/Assault_Rifle
+    KAMAS-A1 Assault Rifle | Table #1 | https://letitdie.wiki.gg/wiki/KAMAS-A1_Assault_Rifle
+    KAMAS-A1 Assault Rifle E | Table #1 | https://letitdie.wiki.gg/wiki/KAMAS-A1_Assault_Rifle_E
+    KAMAS-SP Assault Rifle | Table #1 | https://letitdie.wiki.gg/wiki/KAMAS-SP_Assault_Rifle
+    KAMAS-SP Assault Rifle E | Table #1 | https://letitdie.wiki.gg/wiki/KAMAS-SP_Assault_Rifle_E
+
+KAMAS-A1 Assault Rifle RE [4 occurrences]
+    Assault Rifle RE | Table #1 | https://letitdie.wiki.gg/wiki/KAMAS-A1_Assault_Rifle_RE
+    KAMAS-A1 Assault Rifle E RE | Table #1 | https://letitdie.wiki.gg/wiki/KAMAS-A1_Assault_Rifle_E_RE
+    KAMAS-SP Assault Rifle E RE | Table #1 | https://letitdie.wiki.gg/wiki/KAMAS-SP_Assault_Rifle_E_RE
+    KAMAS-SP Assault Rifle RE | Table #1 | https://letitdie.wiki.gg/wiki/KAMAS-SP_Assault_Rifle_RE
+
+KAMAS-WoT Assault Rifle01 [5 occurrences]
+    Assault Rifle WoT | Table #1 | https://letitdie.wiki.gg/wiki/KAMAS-WoT_Assault_Rifle
+    KAMAS-WoT Assault Rifle01 | Table #1 | https://letitdie.wiki.gg/wiki/KAMAS-WoT_Assault_Rifle01
+    KAMAS-WoT Assault Rifle02 | Table #1 | https://letitdie.wiki.gg/wiki/KAMAS-WoT_Assault_Rifle02
+    KAMAS-WoT Assault Rifle03 | Table #1 | https://letitdie.wiki.gg/wiki/KAMAS-WoT_Assault_Rifle03
+    KAMAS-WoT Assault Rifle04 | Table #1 | https://letitdie.wiki.gg/wiki/KAMAS-WoT_Assault_Rifle04
+
+Kat Head 1 [2 occurrences]
+    Kat Head | Table #1 | https://letitdie.wiki.gg/wiki/Kat_Head
+    Kat Set | Table #1 | https://letitdie.wiki.gg/wiki/Kat_Set
+
+Kendo Mask [2 occurrences]
+    Kendo Mask | Table #1 | https://letitdie.wiki.gg/wiki/Kendo_Mask
+    Kendo Set | Table #1 | https://letitdie.wiki.gg/wiki/Kendo_Set
+
+Killer Wrestler Head [3 occurrences]
+    Killer Wrestler Head | Table #1 | https://letitdie.wiki.gg/wiki/Killer_Wrestler_Head
+    Killer Wrestler Set | Table #1 | https://letitdie.wiki.gg/wiki/Killer_Wrestler_Set
+    Lucha Master Head A | Table #1 | https://letitdie.wiki.gg/wiki/Lucha_Master_Head_A
+
+Killer Wrestler Pants [2 occurrences]
+    Killer Wrestler Pants | Table #1 | https://letitdie.wiki.gg/wiki/Killer_Wrestler_Pants
+    Lucha Master Pants | Table #1 | https://letitdie.wiki.gg/wiki/Lucha_Master_Pants
+
+Knight's Helm [2 occurrences]
+    Hades Knight Helmet S | Table #1 | https://letitdie.wiki.gg/wiki/Hades_Knight_Helmet_S
+    Knight's Helm | Table #1 | https://letitdie.wiki.gg/wiki/Knight%27s_Helm
+
+Knight's Leggings [3 occurrences]
+    Hades Knight Leggings | Table #1 | https://letitdie.wiki.gg/wiki/Hades_Knight_Leggings
+    Hades Knight Leggings S | Table #1 | https://letitdie.wiki.gg/wiki/Hades_Knight_Leggings_S
+    Knight's Leggings | Table #1 | https://letitdie.wiki.gg/wiki/Knight%27s_Leggings
+
+Knight’s Lance [4 occurrences]
+    Knight's Lance | Table #1 | https://letitdie.wiki.gg/wiki/Knight%27s_Lance
+    Knight's Lance S | Table #1 | https://letitdie.wiki.gg/wiki/Knight%27s_Lance_S
+    Knight’s Lance | Table #1 | https://letitdie.wiki.gg/wiki/Knight%E2%80%99s_Lance
+    Spear | Table #1 | https://letitdie.wiki.gg/wiki/Spear
+
+Lightning Wand [5 occurrences]
+    Lightning Wand | Table #1 | https://letitdie.wiki.gg/wiki/Lightning_Wand
+    Lightning Wand S | Table #1 | https://letitdie.wiki.gg/wiki/Lightning_Wand_S
+    Thor's Wand | Table #1 | https://letitdie.wiki.gg/wiki/Thor%27s_Wand
+    Thor's Wand S | Table #1 | https://letitdie.wiki.gg/wiki/Thor%27s_Wand_S
+    Thunder Rod | Table #1 | https://letitdie.wiki.gg/wiki/Thunder_Rod
+
+Lightning Wand TDM [5 occurrences]
+    Lightning Wand S TDM | Table #1 | https://letitdie.wiki.gg/wiki/Lightning_Wand_S_TDM
+    Lightning Wand TDM | Table #1 | https://letitdie.wiki.gg/wiki/Lightning_Wand_TDM
+    TDM Thunder Rod | Table #1 | https://letitdie.wiki.gg/wiki/TDM_Thunder_Rod
+    Thor's Wand S TDM | Table #1 | https://letitdie.wiki.gg/wiki/Thor%27s_Wand_S_TDM
+    Thor's Wand TDM | Table #1 | https://letitdie.wiki.gg/wiki/Thor%27s_Wand_TDM
+
+Lion Knuckles [5 occurrences]
+    Classic Lion Knuckles | Table #1 | https://letitdie.wiki.gg/wiki/Classic_Lion_Knuckles
+    Classic Lion Knuckles S | Table #1 | https://letitdie.wiki.gg/wiki/Classic_Lion_Knuckles_S
+    Lion Dance Knuckles | Table #1 | https://letitdie.wiki.gg/wiki/Lion_Dance_Knuckles
+    Lion Knuckles | Table #1 | https://letitdie.wiki.gg/wiki/Lion_Knuckles
+    Lion Knuckles S | Table #1 | https://letitdie.wiki.gg/wiki/Lion_Knuckles_S
+
+Loaded Glove [5 occurrences]
+    Boxing Gloves | Table #1 | https://letitdie.wiki.gg/wiki/Boxing_Gloves
+    Loaded Glove | Table #1 | https://letitdie.wiki.gg/wiki/Loaded_Glove
+    Loaded Glove A | Table #1 | https://letitdie.wiki.gg/wiki/Loaded_Glove_A
+    Spiked Boxing Glove | Table #1 | https://letitdie.wiki.gg/wiki/Spiked_Boxing_Glove
+    Spiked Boxing Glove A | Table #1 | https://letitdie.wiki.gg/wiki/Spiked_Boxing_Glove_A
+
+Longsword [5 occurrences]
+    Dragon Buster Sword | Table #1 | https://letitdie.wiki.gg/wiki/Dragon_Buster_Sword
+    Dragon Buster Sword S | Table #1 | https://letitdie.wiki.gg/wiki/Dragon_Buster_Sword_S
+    Longsword | Table #1 | https://letitdie.wiki.gg/wiki/Longsword
+    Longsword S | Table #1 | https://letitdie.wiki.gg/wiki/Longsword_S
+    Sword | Table #1 | https://letitdie.wiki.gg/wiki/Sword
+
+Longsword RE [4 occurrences]
+    Dragon Buster Sword RE | Table #1 | https://letitdie.wiki.gg/wiki/Dragon_Buster_Sword_RE
+    Dragon Buster Sword S RE | Table #1 | https://letitdie.wiki.gg/wiki/Dragon_Buster_Sword_S_RE
+    Longsword S RE | Table #1 | https://letitdie.wiki.gg/wiki/Longsword_S_RE
+    Sword RE | Table #1 | https://letitdie.wiki.gg/wiki/Longsword_RE
+
+M-404 Rocket Launcher [5 occurrences]
+    M-404 Rocket Launcher | Table #1 | https://letitdie.wiki.gg/wiki/M-404_Rocket_Launcher
+    M-404 Rocket Launcher E | Table #1 | https://letitdie.wiki.gg/wiki/M-404_Rocket_Launcher_E
+    M-844 Rocket Launcher | Table #1 | https://letitdie.wiki.gg/wiki/M-844_Rocket_Launcher
+    M-844 Rocket Launcher E | Table #1 | https://letitdie.wiki.gg/wiki/M-844_Rocket_Launcher_E
+    Rocket Launcher | Table #1 | https://letitdie.wiki.gg/wiki/Rocket_Launcher
+
+M-404 Rocket Launcher TDM [5 occurrences]
+    M-404 Rocket Launcher E TDM | Table #1 | https://letitdie.wiki.gg/wiki/M-404_Rocket_Launcher_E_TDM
+    M-404 Rocket Launcher TDM | Table #1 | https://letitdie.wiki.gg/wiki/M-404_Rocket_Launcher_TDM
+    M-844 Rocket Launcher E TDM | Table #1 | https://letitdie.wiki.gg/wiki/M-844_Rocket_Launcher_E_TDM
+    M-844 Rocket Launcher TDM | Table #1 | https://letitdie.wiki.gg/wiki/M-844_Rocket_Launcher_TDM
+    TDM Rocket Launcher | Table #1 | https://letitdie.wiki.gg/wiki/TDM_Rocket_Launcher
+
+Masamune Blade [5 occurrences]
+    Katana | Table #1 | https://letitdie.wiki.gg/wiki/Katana
+    Masamune Blade | Table #1 | https://letitdie.wiki.gg/wiki/Masamune_Blade
+    Masamune Blade S | Table #1 | https://letitdie.wiki.gg/wiki/Masamune_Blade_S
+    Muramasa Blade | Table #1 | https://letitdie.wiki.gg/wiki/Muramasa_Blade
+    Muramasa Blade S | Table #1 | https://letitdie.wiki.gg/wiki/Muramasa_Blade_S
+
+Masamune Blade TDM [5 occurrences]
+    Masamune Blade S TDM | Table #1 | https://letitdie.wiki.gg/wiki/Masamune_Blade_S_TDM
+    Masamune Blade TDM | Table #1 | https://letitdie.wiki.gg/wiki/Masamune_Blade_TDM
+    Muramasa Blade S TDM | Table #1 | https://letitdie.wiki.gg/wiki/Muramasa_Blade_S_TDM
+    Muramasa Blade TDM | Table #1 | https://letitdie.wiki.gg/wiki/Muramasa_Blade_TDM
+    TDM Katana | Table #1 | https://letitdie.wiki.gg/wiki/TDM_Katana
+
+Metal Bat [5 occurrences]
+    Bat | Table #1 | https://letitdie.wiki.gg/wiki/Bat
+    Metal Bat | Table #1 | https://letitdie.wiki.gg/wiki/Metal_Bat
+    Metal Bat A | Table #1 | https://letitdie.wiki.gg/wiki/Metal_Bat_A
+    Spiked Bat | Table #1 | https://letitdie.wiki.gg/wiki/Spiked_Bat
+    Spiked Bat A | Table #1 | https://letitdie.wiki.gg/wiki/Spiked_Bat_A
+
+Motocross Head [3 occurrences]
+    Execution Rider Head A | Table #1 | https://letitdie.wiki.gg/wiki/Execution_Rider_Head_A
+    Motocross Head | Table #1 | https://letitdie.wiki.gg/wiki/Motocross_Head
+    Motocross Set | Table #1 | https://letitdie.wiki.gg/wiki/Motocross_Set
+
+Motocross Rider Pants [3 occurrences]
+    Execution Rider Pants | Table #1 | https://letitdie.wiki.gg/wiki/Execution_Rider_Pants
+    Execution Rider Pants A | Table #1 | https://letitdie.wiki.gg/wiki/Execution_Rider_Pants_A
+    Motocross Rider Pants | Table #1 | https://letitdie.wiki.gg/wiki/Motocross_Rider_Pants
+
+Motor Psycho [5 occurrences]
+    Executioner's Ride | Table #1 | https://letitdie.wiki.gg/wiki/Executioner%27s_Ride
+    Executioner's Ride A | Table #1 | https://letitdie.wiki.gg/wiki/Executioner%27s_Ride_A
+    Motor Psycho | Table #1 | https://letitdie.wiki.gg/wiki/Motor_Psycho
+    Motor Psycho A | Table #1 | https://letitdie.wiki.gg/wiki/Motor_Psycho_A
+    Motorcycle | Table #1 | https://letitdie.wiki.gg/wiki/Motorcycle
+
+Motor Psycho TDM [5 occurrences]
+    Executioner's Ride A TDM | Table #1 | https://letitdie.wiki.gg/wiki/Executioner%27s_Ride_A_TDM
+    Executioner's Ride TDM | Table #1 | https://letitdie.wiki.gg/wiki/Executioner%27s_Ride_TDM
+    Motor Psycho A TDM | Table #1 | https://letitdie.wiki.gg/wiki/Motor_Psycho_A_TDM
+    Motor Psycho TDM | Table #1 | https://letitdie.wiki.gg/wiki/Motor_Psycho_TDM
+    TDM Motorcycle | Table #1 | https://letitdie.wiki.gg/wiki/TDM_Motorcycle
+
+Nail Gun [4 occurrences]
+    Nail Blaster | Table #1 | https://letitdie.wiki.gg/wiki/Nail_Blaster
+    Nail Blaster + | Table #1 | https://letitdie.wiki.gg/wiki/Nail_Blaster_%2B
+    Nail Gun | Table #1 | https://letitdie.wiki.gg/wiki/Nail_Gun
+    Nail Gun + | Table #1 | https://letitdie.wiki.gg/wiki/Nail_Gun_%2B
+
+Night Raider Body WoT01 [3 occurrences]
+    Night Raider Body WoT | Table #1 | https://letitdie.wiki.gg/wiki/Night_Raider_Body_WoT
+    Night Raider WoT Set | Table #21 | https://letitdie.wiki.gg/wiki/Night_Raider_WoT_Set
+    Night Scout Set | Table #21 | https://letitdie.wiki.gg/wiki/Night_Scout_Set
+
+Night Raider Head WoT01 [3 occurrences]
+    Night Raider Head WoT | Table #1 | https://letitdie.wiki.gg/wiki/Night_Raider_Head_WoT
+    Night Raider WoT Set | Table #16 | https://letitdie.wiki.gg/wiki/Night_Raider_WoT_Set
+    Night Scout Set | Table #16 | https://letitdie.wiki.gg/wiki/Night_Scout_Set
+
+Night Raider Pants WoT01 [3 occurrences]
+    Night Raider Pants WoT | Table #1 | https://letitdie.wiki.gg/wiki/Night_Raider_Pants_WoT
+    Night Raider WoT Set | Table #26 | https://letitdie.wiki.gg/wiki/Night_Raider_WoT_Set
+    Night Scout Set | Table #26 | https://letitdie.wiki.gg/wiki/Night_Scout_Set
+
+Night Scout Body [3 occurrences]
+    Night Scout Body | Table #1 | https://letitdie.wiki.gg/wiki/Night_Scout_Body
+    Night Raider WoT Set | Table #6 | https://letitdie.wiki.gg/wiki/Night_Raider_WoT_Set
+    Night Scout Set | Table #6 | https://letitdie.wiki.gg/wiki/Night_Scout_Set
+
+Night Scout Head [3 occurrences]
+    Night Scout Head | Table #1 | https://letitdie.wiki.gg/wiki/Night_Scout_Head
+    Night Raider WoT Set | Table #1 | https://letitdie.wiki.gg/wiki/Night_Raider_WoT_Set
+    Night Scout Set | Table #1 | https://letitdie.wiki.gg/wiki/Night_Scout_Set
+
+Night Scout Pants [4 occurrences]
+    Night Scout Pants | Table #1 | https://letitdie.wiki.gg/wiki/Night_Scout_Pants
+    Night Scout Pants E | Table #1 | https://letitdie.wiki.gg/wiki/Night_Scout_Pants_E
+    Night Raider WoT Set | Table #11 | https://letitdie.wiki.gg/wiki/Night_Raider_WoT_Set
+    Night Scout Set | Table #11 | https://letitdie.wiki.gg/wiki/Night_Scout_Set
+
+Paladin Armor [3 occurrences]
+    Last Paladin's Armor | Table #1 | https://letitdie.wiki.gg/wiki/Last_Paladin%27s_Armor
+    Last Paladin's Armor S | Table #1 | https://letitdie.wiki.gg/wiki/Last_Paladin%27s_Armor_S
+    Paladin Armor | Table #1 | https://letitdie.wiki.gg/wiki/Paladin_Armor
+
+Paladin Helmet [2 occurrences]
+    Paladin Helmet | Table #1 | https://letitdie.wiki.gg/wiki/Paladin_Helmet
+    Paladin Set | Table #1 | https://letitdie.wiki.gg/wiki/Paladin_Set
+
+Paladin Leggings [3 occurrences]
+    Last Paladin's Leggings | Table #1 | https://letitdie.wiki.gg/wiki/Last_Paladin%27s_Leggings
+    Last Paladin's Leggings S | Table #1 | https://letitdie.wiki.gg/wiki/Last_Paladin%27s_Leggings_S
+    Paladin Leggings | Table #1 | https://letitdie.wiki.gg/wiki/Paladin_Leggings
+
+Phantom Soldier Body [3 occurrences]
+    Phantom Soldier Body | Table #1 | https://letitdie.wiki.gg/wiki/Phantom_Soldier_Body
+    Phantom Soldier Set | Table #6 | https://letitdie.wiki.gg/wiki/Phantom_Soldier_Set
+    Phantom Soldier WoT Set | Table #6 | https://letitdie.wiki.gg/wiki/Phantom_Soldier_WoT_Set
+
+Phantom Soldier Body WoT01 [3 occurrences]
+    Phantom Soldier Body WoT | Table #1 | https://letitdie.wiki.gg/wiki/Phantom_Soldier_Body_WoT
+    Phantom Soldier Set | Table #21 | https://letitdie.wiki.gg/wiki/Phantom_Soldier_Set
+    Phantom Soldier WoT Set | Table #21 | https://letitdie.wiki.gg/wiki/Phantom_Soldier_WoT_Set
+
+Phantom Soldier Head [3 occurrences]
+    Phantom Soldier Head | Table #1 | https://letitdie.wiki.gg/wiki/Phantom_Soldier_Head
+    Phantom Soldier Set | Table #1 | https://letitdie.wiki.gg/wiki/Phantom_Soldier_Set
+    Phantom Soldier WoT Set | Table #1 | https://letitdie.wiki.gg/wiki/Phantom_Soldier_WoT_Set
+
+Phantom Soldier Head WoT01 [3 occurrences]
+    Phantom Soldier Head WoT | Table #1 | https://letitdie.wiki.gg/wiki/Phantom_Soldier_Head_WoT
+    Phantom Soldier Set | Table #16 | https://letitdie.wiki.gg/wiki/Phantom_Soldier_Set
+    Phantom Soldier WoT Set | Table #16 | https://letitdie.wiki.gg/wiki/Phantom_Soldier_WoT_Set
+
+Phantom Soldier Pants [3 occurrences]
+    Phantom Soldier Pants | Table #1 | https://letitdie.wiki.gg/wiki/Phantom_Soldier_Pants
+    Phantom Soldier Set | Table #11 | https://letitdie.wiki.gg/wiki/Phantom_Soldier_Set
+    Phantom Soldier WoT Set | Table #11 | https://letitdie.wiki.gg/wiki/Phantom_Soldier_WoT_Set
+
+Phantom Soldier Pants WoT01 [3 occurrences]
+    Phantom Soldier Pants WoT | Table #1 | https://letitdie.wiki.gg/wiki/Phantom_Soldier_Pants_WoT
+    Phantom Soldier Set | Table #26 | https://letitdie.wiki.gg/wiki/Phantom_Soldier_Set
+    Phantom Soldier WoT Set | Table #26 | https://letitdie.wiki.gg/wiki/Phantom_Soldier_WoT_Set
+
+Pitbull Shotgun [4 occurrences]
+    Cerberus Shotgun | Table #1 | https://letitdie.wiki.gg/wiki/Cerberus_Shotgun
+    Cerberus Shotgun E | Table #1 | https://letitdie.wiki.gg/wiki/Cerberus_Shotgun_E
+    Pitbull Shotgun | Table #1 | https://letitdie.wiki.gg/wiki/Pitbull_Shotgun
+    Shotgun | Table #1 | https://letitdie.wiki.gg/wiki/Shotgun
+
+Pork Chopper [5 occurrences]
+    Chopper | Table #1 | https://letitdie.wiki.gg/wiki/Chopper
+    Pork Chopper | Table #1 | https://letitdie.wiki.gg/wiki/Pork_Chopper
+    Pork Chopper + | Table #1 | https://letitdie.wiki.gg/wiki/Pork_Chopper_%2B
+    Zombie Chopper | Table #1 | https://letitdie.wiki.gg/wiki/Zombie_Chopper
+    Zombie Chopper + | Table #1 | https://letitdie.wiki.gg/wiki/Zombie_Chopper_%2B
+
+Power Stomper Mask [3 occurrences]
+    Alien Roadster Head + | Table #1 | https://letitdie.wiki.gg/wiki/Alien_Roadster_Head_%2B
+    Power Stomper Mask | Table #1 | https://letitdie.wiki.gg/wiki/Power_Stomper_Mask
+    Power Stomper Set | Table #1 | https://letitdie.wiki.gg/wiki/Power_Stomper_Set
+
+Priest's Coat [2 occurrences]
+    Bishop's Coat | Table #1 | https://letitdie.wiki.gg/wiki/Bishop%27s_Coat
+    Priest's Coat | Table #1 | https://letitdie.wiki.gg/wiki/Priest%27s_Coat
+
+Priest's Cowl [2 occurrences]
+    Priest Set | Table #1 | https://letitdie.wiki.gg/wiki/Priest_Set
+    Priest's Cowl | Table #1 | https://letitdie.wiki.gg/wiki/Priest%27s_Cowl
+
+Pulse Stun Gun [2 occurrences]
+    Pulse Stun Gun | Table #1 | https://letitdie.wiki.gg/wiki/Pulse_Stun_Gun
+    Stun Gun | Table #1 | https://letitdie.wiki.gg/wiki/Stun_Gun
+
+Red Hot Iron [5 occurrences]
+    Death Burner Iron | Table #1 | https://letitdie.wiki.gg/wiki/Death_Burner_Iron
+    Death Burner Iron + | Table #1 | https://letitdie.wiki.gg/wiki/Death_Burner_Iron_%2B
+    Iron | Table #1 | https://letitdie.wiki.gg/wiki/Iron
+    Red Hot Iron | Table #1 | https://letitdie.wiki.gg/wiki/Red_Hot_Iron
+    Red Hot Iron + | Table #1 | https://letitdie.wiki.gg/wiki/Red_Hot_Iron_%2B
+
+Road Shocker Coat [2 occurrences]
+    Road Killer Coat | Table #1 | https://letitdie.wiki.gg/wiki/Road_Killer_Coat
+    Road Shocker Coat | Table #1 | https://letitdie.wiki.gg/wiki/Road_Shocker_Coat
+
+Road Shocker Head [3 occurrences]
+    Road Killer Head + | Table #1 | https://letitdie.wiki.gg/wiki/Road_Killer_Head_%2B
+    Road Shocker Head | Table #1 | https://letitdie.wiki.gg/wiki/Road_Shocker_Head
+    Road Shocker Set | Table #1 | https://letitdie.wiki.gg/wiki/Road_Shocker_Set
+
+Road Shocker Pants [3 occurrences]
+    Road Killer Pants | Table #1 | https://letitdie.wiki.gg/wiki/Road_Killer_Pants
+    Road Killer Pants + | Table #1 | https://letitdie.wiki.gg/wiki/Road_Killer_Pants_%2B
+    Road Shocker Pants | Table #1 | https://letitdie.wiki.gg/wiki/Road_Shocker_Pants
+
+Robber Crossbow [5 occurrences]
+    Assassin's Crossbow | Table #1 | https://letitdie.wiki.gg/wiki/Assassin%27s_Crossbow
+    Assassin's Crossbow S | Table #1 | https://letitdie.wiki.gg/wiki/Assassin%27s_Crossbow_S
+    Crossbow | Table #1 | https://letitdie.wiki.gg/wiki/Crossbow
+    Robber Crossbow | Table #1 | https://letitdie.wiki.gg/wiki/Robber_Crossbow
+    Robber Crossbow S | Table #1 | https://letitdie.wiki.gg/wiki/Robber_Crossbow_S
+
+Rogue Helmet [3 occurrences]
+    Dark Rogue Helmet | Table #1 | https://letitdie.wiki.gg/wiki/Dark_Rogue_Helmet
+    Rogue Helmet | Table #1 | https://letitdie.wiki.gg/wiki/Rogue_Helmet
+    Rogue Set | Table #1 | https://letitdie.wiki.gg/wiki/Rogue_Set
+
+Rogue Leggings [2 occurrences]
+    Dark Rogue Leggings | Table #1 | https://letitdie.wiki.gg/wiki/Dark_Rogue_Leggings
+    Rogue Leggings | Table #1 | https://letitdie.wiki.gg/wiki/Rogue_Leggings
+
+Sengoku Armor [2 occurrences]
+    Sengoku Armor | Table #1 | https://letitdie.wiki.gg/wiki/Sengoku_Armor
+    Shogun Armor S | Table #1 | https://letitdie.wiki.gg/wiki/Shogun_Armor_S
+
+Sengoku Helmet [3 occurrences]
+    Sengoku Helmet | Table #1 | https://letitdie.wiki.gg/wiki/Sengoku_Helmet
+    Sengoku Set | Table #1 | https://letitdie.wiki.gg/wiki/Sengoku_Set
+    Shogun Helmet S | Table #1 | https://letitdie.wiki.gg/wiki/Shogun_Helmet_S
+
+Silent Sniper Body [2 occurrences]
+    Ghost Sniper Body E | Table #1 | https://letitdie.wiki.gg/wiki/Ghost_Sniper_Body_E
+    Silent Sniper Body | Table #1 | https://letitdie.wiki.gg/wiki/Silent_Sniper_Body
+
+Silent Sniper Head [3 occurrences]
+    Ghost Sniper Head E | Table #1 | https://letitdie.wiki.gg/wiki/Ghost_Sniper_Head_E
+    Silent Sniper Head | Table #1 | https://letitdie.wiki.gg/wiki/Silent_Sniper_Head
+    Silent Sniper Set | Table #1 | https://letitdie.wiki.gg/wiki/Silent_Sniper_Set
+
+Silent Sniper Pants [2 occurrences]
+    Ghost Sniper Pants E | Table #1 | https://letitdie.wiki.gg/wiki/Ghost_Sniper_Pants_E
+    Silent Sniper Pants | Table #1 | https://letitdie.wiki.gg/wiki/Silent_Sniper_Pants
+
+Special Forces' Beret [2 occurrences]
+    Special Forces' Beret | Table #1 | https://letitdie.wiki.gg/wiki/Special_Forces%27_Beret
+    Special Forces' Set | Table #1 | https://letitdie.wiki.gg/wiki/Special_Forces%27_Set
+
+Splatter 13 Body [2 occurrences]
+    Black Belt Terror Body A | Table #1 | https://letitdie.wiki.gg/wiki/Black_Belt_Terror_Body_A
+    Splatter 13 Body | Table #1 | https://letitdie.wiki.gg/wiki/Splatter_13_Body
+
+Splatter 13 Head [4 occurrences]
+    Black Belt Terror Head | Table #1 | https://letitdie.wiki.gg/wiki/Black_Belt_Terror_Head
+    Splatter 13 Head | Table #1 | https://letitdie.wiki.gg/wiki/Splatter_13_Head
+    Splatter 13 Head A | Table #1 | https://letitdie.wiki.gg/wiki/Splatter_13_Head_A
+    Splatter 13 Set | Table #1 | https://letitdie.wiki.gg/wiki/Splatter_13_Set
+
+Steel Axe [5 occurrences]
+    Axe | Table #1 | https://letitdie.wiki.gg/wiki/Axe
+    Axe of Destruction | Table #1 | https://letitdie.wiki.gg/wiki/Axe_of_Destruction
+    Axe of Destruction S | Table #1 | https://letitdie.wiki.gg/wiki/Axe_of_Destruction_S
+    Steel Axe | Table #1 | https://letitdie.wiki.gg/wiki/Steel_Axe
+    Steel Axe S | Table #1 | https://letitdie.wiki.gg/wiki/Steel_Axe_S
+
+Steel Soldier Apron [3 occurrences]
+    Steel God Apron | Table #1 | https://letitdie.wiki.gg/wiki/Steel_God_Apron
+    Steel God Apron + | Table #1 | https://letitdie.wiki.gg/wiki/Steel_God_Apron_%2B
+    Steel Soldier Apron | Table #1 | https://letitdie.wiki.gg/wiki/Steel_Soldier_Apron
+
+Steel Soldier Mask [2 occurrences]
+    Steel Soldier Mask | Table #1 | https://letitdie.wiki.gg/wiki/Steel_Soldier_Mask
+    Steel Soldier Set | Table #1 | https://letitdie.wiki.gg/wiki/Steel_Soldier_Set
+
+Steel Soldier Pants [2 occurrences]
+    Steel God Pants + | Table #1 | https://letitdie.wiki.gg/wiki/Steel_God_Pants_%2B
+    Steel Soldier Pants | Table #1 | https://letitdie.wiki.gg/wiki/Steel_Soldier_Pants
+
+Steel Tribe Body [2 occurrences]
+    Steel Madman Body + | Table #1 | https://letitdie.wiki.gg/wiki/Steel_Madman_Body_%2B
+    Steel Tribe Body | Table #1 | https://letitdie.wiki.gg/wiki/Steel_Tribe_Body
+
+Steel Tribe Mask [3 occurrences]
+    Steel Madman Mask | Table #1 | https://letitdie.wiki.gg/wiki/Steel_Madman_Mask
+    Steel Tribe Mask | Table #1 | https://letitdie.wiki.gg/wiki/Steel_Tribe_Mask
+    Steel Tribe Set | Table #1 | https://letitdie.wiki.gg/wiki/Steel_Tribe_Set
+
+Steel Tribe Pants [2 occurrences]
+    Steel Madman Pants | Table #1 | https://letitdie.wiki.gg/wiki/Steel_Madman_Pants
+    Steel Tribe Pants | Table #1 | https://letitdie.wiki.gg/wiki/Steel_Tribe_Pants
+
+Striker Flail [5 occurrences]
+    Armor Breaking Flail | Table #1 | https://letitdie.wiki.gg/wiki/Armor_Breaking_Flail
+    Armor Breaking Flail S | Table #1 | https://letitdie.wiki.gg/wiki/Armor_Breaking_Flail_S
+    Flail | Table #1 | https://letitdie.wiki.gg/wiki/Flail
+    Striker Flail | Table #1 | https://letitdie.wiki.gg/wiki/Striker_Flail
+    Striker Flail S | Table #1 | https://letitdie.wiki.gg/wiki/Striker_Flail_S
+
+Stun Rod [2 occurrences]
+    Stun Master E | Table #1 | https://letitdie.wiki.gg/wiki/Stun_Master_E
+    Stun Rod | Table #1 | https://letitdie.wiki.gg/wiki/Stun_Rod
+
+Swimming Master Head [3 occurrences]
+    Blood Diver Head A | Table #1 | https://letitdie.wiki.gg/wiki/Blood_Diver_Head_A
+    Swimming Master Head | Table #1 | https://letitdie.wiki.gg/wiki/Swimming_Master_Head
+    Swimming Master Set | Table #1 | https://letitdie.wiki.gg/wiki/Swimming_Master_Set
+
+Swimming Master Pants [2 occurrences]
+    Blood Diver Pants A | Table #1 | https://letitdie.wiki.gg/wiki/Blood_Diver_Pants_A
+    Swimming Master Pants | Table #1 | https://letitdie.wiki.gg/wiki/Swimming_Master_Pants
+
+Sword Dancer Head [2 occurrences]
+    Sword Dancer Head | Table #1 | https://letitdie.wiki.gg/wiki/Sword_Dancer_Head
+    Sword Dancer Set | Table #1 | https://letitdie.wiki.gg/wiki/Sword_Dancer_Set
+
+Tactical Shovel [5 occurrences]
+    Shovel | Table #1 | https://letitdie.wiki.gg/wiki/Shovel
+    Special Forces Shovel | Table #1 | https://letitdie.wiki.gg/wiki/Special_Forces_Shovel
+    Special Forces Shovel E | Table #1 | https://letitdie.wiki.gg/wiki/Special_Forces_Shovel_E
+    Tactical Shovel | Table #1 | https://letitdie.wiki.gg/wiki/Tactical_Shovel
+    Tactical Shovel E | Table #1 | https://letitdie.wiki.gg/wiki/Tactical_Shovel_E
+
+Tank Commander Helmet Ver.1 [2 occurrences]
+    Tank Commander Helmet | Table #1 | https://letitdie.wiki.gg/wiki/Tank_Commander_Helmet
+    Tank Commander Set | Table #1 | https://letitdie.wiki.gg/wiki/Tank_Commander_Set
+
+Texas Farmer Mask [2 occurrences]
+    Texas Farmer Mask | Table #1 | https://letitdie.wiki.gg/wiki/Texas_Farmer_Mask
+    Texas Farmer Set | Table #1 | https://letitdie.wiki.gg/wiki/Texas_Farmer_Set
+
+Texas Farmer Pants [3 occurrences]
+    Texas Farmer Pants | Table #1 | https://letitdie.wiki.gg/wiki/Texas_Farmer_Pants
+    Texas Slasher Pants | Table #1 | https://letitdie.wiki.gg/wiki/Texas_Slasher_Pants
+    Texas Slasher Pants + | Table #1 | https://letitdie.wiki.gg/wiki/Texas_Slasher_Pants_%2B
+
+Timber Rebellion [5 occurrences]
+    Timber | Table #1 | https://letitdie.wiki.gg/wiki/Timber
+    Timber Rebellion | Table #1 | https://letitdie.wiki.gg/wiki/Timber_Rebellion
+    Timber Rebellion + | Table #1 | https://letitdie.wiki.gg/wiki/Timber_Rebellion_%2B
+    Timber Riot | Table #1 | https://letitdie.wiki.gg/wiki/Timber_Riot
+    Timber Riot + | Table #1 | https://letitdie.wiki.gg/wiki/Timber_Riot_%2B
+
+Travis' Sunglasses 1 [2 occurrences]
+    Travis' Set | Table #1 | https://letitdie.wiki.gg/wiki/Travis%27_Set
+    Travis' Sunglasses | Table #1 | https://letitdie.wiki.gg/wiki/Travis%27_Sunglasses
+
+Trucker Hat [2 occurrences]
+    Trucker Hat | Table #1 | https://letitdie.wiki.gg/wiki/Trucker_Hat
+    Trucker Set | Table #1 | https://letitdie.wiki.gg/wiki/Trucker_Set
+
+Violent Grinder Head [2 occurrences]
+    Violent Grinder Head | Table #1 | https://letitdie.wiki.gg/wiki/Violent_Grinder_Head
+    Violent Grinder Set | Table #1 | https://letitdie.wiki.gg/wiki/Violent_Grinder_Set
+
+Warrior Armor [4 occurrences]
+    Berserker Armor | Table #1 | https://letitdie.wiki.gg/wiki/Berserker_Armor
+    Berserker Armor S | Table #1 | https://letitdie.wiki.gg/wiki/Berserker_Armor_S
+    Warrior Armor | Table #1 | https://letitdie.wiki.gg/wiki/Warrior_Armor
+    Warrior Armor S | Table #1 | https://letitdie.wiki.gg/wiki/Warrior_Armor_S
+
+Warrior Helmet [4 occurrences]
+    Berserker Helmet S | Table #1 | https://letitdie.wiki.gg/wiki/Berserker_Helmet_S
+    Warrior Helmet | Table #1 | https://letitdie.wiki.gg/wiki/Warrior_Helmet
+    Warrior Helmet S | Table #1 | https://letitdie.wiki.gg/wiki/Warrior_Helmet_S
+    Warrior Set | Table #1 | https://letitdie.wiki.gg/wiki/Warrior_Set
+
+Warrior Leggings [2 occurrences]
+    Berserker Leggings S | Table #1 | https://letitdie.wiki.gg/wiki/Berserker_Leggings_S
+    Warrior Leggings | Table #1 | https://letitdie.wiki.gg/wiki/Warrior_Leggings
+
+Welding Gun [5 occurrences]
+    Arc Welder | Table #1 | https://letitdie.wiki.gg/wiki/Arc_Welder
+    Plasma Welding Gun | Table #1 | https://letitdie.wiki.gg/wiki/Plasma_Welding_Gun
+    Plasma Welding Gun + | Table #1 | https://letitdie.wiki.gg/wiki/Plasma_Welding_Gun_%2B
+    Welding Gun | Table #1 | https://letitdie.wiki.gg/wiki/Welding_Gun
+    Welding Gun + | Table #1 | https://letitdie.wiki.gg/wiki/Welding_Gun_%2B
+
+================================================================================
+MULTI-CHAIN PAGE DETAILS
+================================================================================
+
+Clay Figurine RE Set
+URL: https://letitdie.wiki.gg/wiki/Clay_Figurine_RE_Set
+Tables: 30
+Detected chain starts:
+    Table 1: Clay Figurine Helmet
+    Table 6: Clay Figurine Armor
+    Table 11: Clay Figurine Leggings
+    Table 16: Clay Figurine Helmet RE
+    Table 21: Clay Figurine Armor RE
+    Table 26: Clay Figurine Leggings RE
+
+Clay Figurine Set
+URL: https://letitdie.wiki.gg/wiki/Clay_Figurine_Set
+Tables: 30
+Detected chain starts:
+    Table 1: Clay Figurine Helmet
+    Table 6: Clay Figurine Armor
+    Table 11: Clay Figurine Leggings
+    Table 16: Clay Figurine Helmet RE
+    Table 21: Clay Figurine Armor RE
+    Table 26: Clay Figurine Leggings RE
+
+Iron Eagle RE Set
+URL: https://letitdie.wiki.gg/wiki/Iron_Eagle_RE_Set
+Tables: 30
+Detected chain starts:
+    Table 1: Iron Eagle Head
+    Table 6: Iron Eagle Body
+    Table 11: Iron Eagle Pants
+    Table 16: Iron Eagle Head RE
+    Table 21: Iron Eagle Body RE
+    Table 26: Iron Eagle Pants RE
+
+Iron Eagle Set
+URL: https://letitdie.wiki.gg/wiki/Iron_Eagle_Set
+Tables: 30
+Detected chain starts:
+    Table 1: Iron Eagle Head
+    Table 6: Iron Eagle Body
+    Table 11: Iron Eagle Pants
+    Table 16: Iron Eagle Head RE
+    Table 21: Iron Eagle Body RE
+    Table 26: Iron Eagle Pants RE
+
+Night Raider WoT Set
+URL: https://letitdie.wiki.gg/wiki/Night_Raider_WoT_Set
+Tables: 30
+Detected chain starts:
+    Table 1: Night Scout Head
+    Table 6: Night Scout Body
+    Table 11: Night Scout Pants
+    Table 16: Night Raider Head WoT01
+    Table 21: Night Raider Body WoT01
+    Table 26: Night Raider Pants WoT01
+
+Night Scout Set
+URL: https://letitdie.wiki.gg/wiki/Night_Scout_Set
+Tables: 30
+Detected chain starts:
+    Table 1: Night Scout Head
+    Table 6: Night Scout Body
+    Table 11: Night Scout Pants
+    Table 16: Night Raider Head WoT01
+    Table 21: Night Raider Body WoT01
+    Table 26: Night Raider Pants WoT01
+
+Phantom Soldier Set
+URL: https://letitdie.wiki.gg/wiki/Phantom_Soldier_Set
+Tables: 30
+Detected chain starts:
+    Table 1: Phantom Soldier Head
+    Table 6: Phantom Soldier Body
+    Table 11: Phantom Soldier Pants
+    Table 16: Phantom Soldier Head WoT01
+    Table 21: Phantom Soldier Body WoT01
+    Table 26: Phantom Soldier Pants WoT01
+
+Phantom Soldier WoT Set
+URL: https://letitdie.wiki.gg/wiki/Phantom_Soldier_WoT_Set
+Tables: 30
+Detected chain starts:
+    Table 1: Phantom Soldier Head
+    Table 6: Phantom Soldier Body
+    Table 11: Phantom Soldier Pants
+    Table 16: Phantom Soldier Head WoT01
+    Table 21: Phantom Soldier Body WoT01
+    Table 26: Phantom Soldier Pants WoT01
+
+================================================================================
+SMALL 1-4 TABLE PAGES (NOT INCLUDED IN BASE COUNT)
+================================================================================
+
+[1 tables] 4M Gas Mask
+URL: https://letitdie.wiki.gg/wiki/4M_Gas_Mask
+    #1: 4M Gas Mask | 4M Gas Mask ★ Total Materials
+
+[1 tables] 4M Gas Mask N
+URL: https://letitdie.wiki.gg/wiki/4M_Gas_Mask_N
+    #1: 4M Gas Mask N | 4M Gas Mask N ★★★★★★★ Total Materials
+
+[1 tables] Asgard
+URL: https://letitdie.wiki.gg/wiki/Asgard
+    #1: Asgard | Asgard ★★★★★★★ Total Materials
+
+[1 tables] Astaroth
+URL: https://letitdie.wiki.gg/wiki/Astaroth
+    #1: Astaroth | Astaroth ★★★★★★★ Total Materials
+
+[1 tables] Backdraft
+URL: https://letitdie.wiki.gg/wiki/Backdraft
+    #1: Backdraft | Backdraft ★★★★★★★ Total Materials
+
+[1 tables] Belphegor
+URL: https://letitdie.wiki.gg/wiki/Belphegor
+    #1: Belphegor | Belphegor ★★★★★★★ Total Materials
+
+[1 tables] Black Mamba
+URL: https://letitdie.wiki.gg/wiki/Black_Mamba
+    #1: Black Mamba | Black Mamba ★★★★★★★ Total Materials
+
+[2 tables] Black Thunder Armor
+URL: https://letitdie.wiki.gg/wiki/Black_Thunder_Armor
+    #1: Black Thunder Armor | Black Thunder Armor ★★★★★★ Total Materials
+    #2: Black Thunder Armor | Black Thunder Armor ★★★★★★ Total Materials
+
+[2 tables] Black Thunder Helmet
+URL: https://letitdie.wiki.gg/wiki/Black_Thunder_Helmet
+    #1: Black Thunder Helmet | Black Thunder Helmet ★★★★★★ Total Materials
+    #2: Black Thunder Helmet | Black Thunder Helmet ★★★★★★ Total Materials
+
+[2 tables] Black Thunder Leggings
+URL: https://letitdie.wiki.gg/wiki/Black_Thunder_Leggings
+    #1: Black Thunder Leggings | Black Thunder Leggings ★★★★★★ Total Materials
+    #2: Black Thunder Leggings | Black Thunder Leggings ★★★★★★ Total Materials
+
+[2 tables] Black Thunder Set
+URL: https://letitdie.wiki.gg/wiki/Black_Thunder_Set
+    #1: Black Thunder Helmet | Black Thunder Helmet ★★★★★★ Total Materials
+    #2: Black Thunder Helmet | Black Thunder Helmet ★★★★★★ Total Materials
+
+[1 tables] Crimson Rose
+URL: https://letitdie.wiki.gg/wiki/Crimson_Rose
+    #1: Crimson Rose | Crimson Rose ★★★★★★★ Total Materials
+
+[1 tables] DAIMON Glasses
+URL: https://letitdie.wiki.gg/wiki/DAIMON_Glasses
+    #1: DAIMON Glasses | DAIMON Glasses ★★★ Total Materials
+
+[1 tables] Death Stalker
+URL: https://letitdie.wiki.gg/wiki/Death_Stalker
+    #1: Death Stalker | Death Stalker ★★★★★★★ Total Materials
+
+[2 tables] Death's Scythe (Gold)
+URL: https://letitdie.wiki.gg/wiki/Grim_Reaper%27s_Scythe_(Gold)
+    #1: Grim Reaper’s Scythe | Grim Reaper’s Scythe ★★★★★ Total Materials
+    #2: Grim Reaper’s Scythe | Grim Reaper’s Scythe ★★★★★ Total Materials
+
+[4 tables] Death's Scythe (Red)
+URL: https://letitdie.wiki.gg/wiki/Grim_Reaper%27s_Scythe_R1
+    #1: Grim Reaper’s Scythe R1 | Grim Reaper’s Scythe R1 ★★★ Total Materials
+    #2: Grim Reaper’s Scythe R2 | Grim Reaper’s Scythe R2 ★★★★ Total Materials
+    #3: Grim Reaper’s Scythe R3 | Grim Reaper’s Scythe R3 ★★★★★ Total Materials
+    #4: Grim Reaper’s Scythe R3 | Grim Reaper’s Scythe R3 ★★★★★ Total Materials
+
+[2 tables] Death's Scythe (Silver)
+URL: https://letitdie.wiki.gg/wiki/Grim_Reaper%27s_Scythe_(Silver)
+    #1: Grim Reaper’s Scythe | Grim Reaper’s Scythe ★★★★★ Total Materials
+    #2: Grim Reaper’s Scythe | Grim Reaper’s Scythe ★★★★★ Total Materials
+
+[1 tables] Desert Scarf
+URL: https://letitdie.wiki.gg/wiki/Desert_Scarf
+    #1: Desert Scarf | Desert Scarf ★ Total Materials
+
+[1 tables] Desert Scarf N
+URL: https://letitdie.wiki.gg/wiki/Desert_Scarf_N
+    #1: Desert Scarf N | Desert Scarf N ★★★★★★★ Total Materials
+
+[1 tables] Dominion
+URL: https://letitdie.wiki.gg/wiki/Dominion
+    #1: Dominion | Dominion ★★★★★★★ Total Materials
+
+[1 tables] Dragon
+URL: https://letitdie.wiki.gg/wiki/Dragon
+    #1: Dragon | Dragon ★★★★★★★ Total Materials
+
+[1 tables] Electro Trigger
+URL: https://letitdie.wiki.gg/wiki/Electro_Trigger
+    #1: Electro Trigger | Electro Trigger ★★★★★★★ Total Materials
+
+[1 tables] Emperor
+URL: https://letitdie.wiki.gg/wiki/Emperor
+    #1: Emperor | Emperor ★★★★★★★ Total Materials
+
+[3 tables] Executioner’s Ride ZX
+URL: https://letitdie.wiki.gg/wiki/Executioner%E2%80%99s_Ride_ZX
+    #1: Executioner’s Ride ZX | Executioner’s Ride ZX ★★★★★ Total Materials
+    #2: Executioner’s Ride A ZX | Executioner’s Ride A ZX ★★★★★★ Total Materials
+    #3: Executioner’s Ride A ZX | Executioner’s Ride A ZX ★★★★★★ Total Materials
+
+[1 tables] Fencer's Mask
+URL: https://letitdie.wiki.gg/wiki/Fencer%27s_Mask
+    #1: Fencer's Mask | Fencer's Mask ★ Total Materials
+
+[1 tables] Fencer's Mask N
+URL: https://letitdie.wiki.gg/wiki/Fencer%27s_Mask_N
+    #1: Fencer's Mask N | Fencer's Mask N ★★★★★★★ Total Materials
+
+[1 tables] Fenrir
+URL: https://letitdie.wiki.gg/wiki/Fenrir
+    #1: Fenrir | Fenrir ★★★★★★★ Total Materials
+
+[1 tables] Fists
+URL: https://letitdie.wiki.gg/wiki/Fists
+    #1: Fists | Fists Total Materials
+
+[1 tables] Fixed Match
+URL: https://letitdie.wiki.gg/wiki/Fixed_Match
+    #1: Fixed Match | Fixed Match ★★★★★★★ Total Materials
+
+[2 tables] Grim Reaper’s Scythe (Gold)
+URL: https://letitdie.wiki.gg/wiki/Grim_Reaper%E2%80%99s_Scythe_(Gold)
+    #1: Grim Reaper’s Scythe | Grim Reaper’s Scythe ★★★★★ Total Materials
+    #2: Grim Reaper’s Scythe | Grim Reaper’s Scythe ★★★★★ Total Materials
+
+[2 tables] Grim Reaper’s Scythe (Silver)
+URL: https://letitdie.wiki.gg/wiki/Grim_Reaper%E2%80%99s_Scythe_(Silver)
+    #1: Grim Reaper’s Scythe | Grim Reaper’s Scythe ★★★★★ Total Materials
+    #2: Grim Reaper’s Scythe | Grim Reaper’s Scythe ★★★★★ Total Materials
+
+[4 tables] Grim Reaper’s Scythe R1
+URL: https://letitdie.wiki.gg/wiki/Grim_Reaper%E2%80%99s_Scythe_R1
+    #1: Grim Reaper’s Scythe R1 | Grim Reaper’s Scythe R1 ★★★ Total Materials
+    #2: Grim Reaper’s Scythe R2 | Grim Reaper’s Scythe R2 ★★★★ Total Materials
+    #3: Grim Reaper’s Scythe R3 | Grim Reaper’s Scythe R3 ★★★★★ Total Materials
+    #4: Grim Reaper’s Scythe R3 | Grim Reaper’s Scythe R3 ★★★★★ Total Materials
+
+[1 tables] Happy Yuppie Glasses
+URL: https://letitdie.wiki.gg/wiki/Happy_Yuppie_Glasses
+    #1: Happy Yuppie Glasses | Happy Yuppie Glasses ★★★ Total Materials
+
+[1 tables] Hatatagami
+URL: https://letitdie.wiki.gg/wiki/Hatatagami
+    #1: Hatatagami | Hatatagami ★★★★★★★ Total Materials
+
+[2 tables] Head of Euryale
+URL: https://letitdie.wiki.gg/wiki/Head_of_Euryale
+    #1: Head of Euryale | Head of Euryale ★★★★★★★ Total Materials
+    #2: Head of Euryale | Head of Euryale ★★★★★★★ Total Materials
+
+[4 tables] Head of Medusa
+URL: https://letitdie.wiki.gg/wiki/Head_of_Medusa
+    #1: Head of Medusa | Head of Medusa ★★★★★★ Total Materials
+    #2: Head of Medusa | Head of Medusa ★★★★★★ Total Materials
+    #3: Head of Euryale | Head of Euryale ★★★★★★★ Total Materials
+    #4: Head of Euryale | Head of Euryale ★★★★★★★ Total Materials
+
+[1 tables] Hell Napalm Body
+URL: https://letitdie.wiki.gg/wiki/Hell_Napalm_Body
+    #1: Hell Napalm Body | Hell Napalm Body ★★★★★★★ Total Materials
+
+[2 tables] Hell Napalm Head
+URL: https://letitdie.wiki.gg/wiki/Hell_Napalm_Head
+    #1: Hell Napalm Head | Hell Napalm Head ★★★★★★★ Total Materials
+    #2: Hell Napalm Head | Hell Napalm Head ★★★★★★★ Total Materials
+
+[1 tables] Hell Napalm Pants
+URL: https://letitdie.wiki.gg/wiki/Hell_Napalm_Pants
+    #1: Hell Napalm Pants | Hell Napalm Pants ★★★★★★★ Total Materials
+
+[2 tables] Hell Napalm Set
+URL: https://letitdie.wiki.gg/wiki/Hell_Napalm_Set
+    #1: Hell Napalm Head | Hell Napalm Head ★★★★★★★ Total Materials
+    #2: Hell Napalm Head | Hell Napalm Head ★★★★★★★ Total Materials
+
+[2 tables] Hell Spike Crusher
+URL: https://letitdie.wiki.gg/wiki/Hell_Spike_Crusher
+    #1: Hell Spike Crusher | Hell Spike Crusher ★★★★★★★ Total Materials
+    #2: Hell Spike Crusher | Hell Spike Crusher ★★★★★★★ Total Materials
+
+[2 tables] Hell Steel Body
+URL: https://letitdie.wiki.gg/wiki/Hell_Steel_Body
+    #1: Hell Steel Body | Hell Steel Body ★★★★★★★ Total Materials
+    #2: Hell Steel Body | Hell Steel Body ★★★★★★★ Total Materials
+
+[2 tables] Hell Steel Head
+URL: https://letitdie.wiki.gg/wiki/Hell_Steel_Head
+    #1: Hell Steel Head | Hell Steel Head ★★★★★★★ Total Materials
+    #2: Hell Steel Head | Hell Steel Head ★★★★★★★ Total Materials
+
+[2 tables] Hell Steel Leggings
+URL: https://letitdie.wiki.gg/wiki/Hell_Steel_Leggings
+    #1: Hell Steel Leggings | Hell Steel Leggings ★★★★★★★ Total Materials
+    #2: Hell Steel Leggings | Hell Steel Leggings ★★★★★★★ Total Materials
+
+[2 tables] Hell Steel Set
+URL: https://letitdie.wiki.gg/wiki/Hell_Steel_Set
+    #1: Hell Steel Head | Hell Steel Head ★★★★★★★ Total Materials
+    #2: Hell Steel Head | Hell Steel Head ★★★★★★★ Total Materials
+
+[1 tables] Hell Thunder Armor
+URL: https://letitdie.wiki.gg/wiki/Hell_Thunder_Armor
+    #1: Hell Thunder Armor | Hell Thunder Armor ★★★★★★★ Total Materials
+
+[1 tables] Hell Thunder Helmet
+URL: https://letitdie.wiki.gg/wiki/Hell_Thunder_Helmet
+    #1: Hell Thunder Helmet | Hell Thunder Helmet ★★★★★★★ Total Materials
+
+[1 tables] Hell Thunder Leggings
+URL: https://letitdie.wiki.gg/wiki/Hell_Thunder_Leggings
+    #1: Hell Thunder Leggings | Hell Thunder Leggings ★★★★★★★ Total Materials
+
+[1 tables] Hell Thunder Set
+URL: https://letitdie.wiki.gg/wiki/Hell_Thunder_Set
+    #1: Hell Thunder Helmet | Hell Thunder Helmet ★★★★★★★ Total Materials
+
+[1 tables] Hell Wind Body
+URL: https://letitdie.wiki.gg/wiki/Hell_Wind_Body
+    #1: Hell Wind Body | Hell Wind Body ★★★★★★★ Total Materials
+
+[1 tables] Hell Wind Head
+URL: https://letitdie.wiki.gg/wiki/Hell_Wind_Head
+    #1: Hell Wind Head | Hell Wind Head ★★★★★★★ Total Materials
+
+[1 tables] Hell Wind Pants
+URL: https://letitdie.wiki.gg/wiki/Hell_Wind_Pants
+    #1: Hell Wind Pants | Hell Wind Pants ★★★★★★★ Total Materials
+
+[1 tables] Hell Wind Set
+URL: https://letitdie.wiki.gg/wiki/Hell_Wind_Set
+    #1: Hell Wind Head | Hell Wind Head ★★★★★★★ Total Materials
+
+[1 tables] Hellhound
+URL: https://letitdie.wiki.gg/wiki/Hellhound
+    #1: Hellhound | Hellhound ★★★★★★★ Total Materials
+
+[2 tables] Immortal Bobslayer
+URL: https://letitdie.wiki.gg/wiki/Immortal_Bobslayer
+    #1: Immortal Bobslayer | Immortal Bobslayer ★★★★★★★ Total Materials
+    #2: Immortal Bobslayer | Immortal Bobslayer ★★★★★★★ Total Materials
+
+[1 tables] Iron Hammer EXRG
+URL: https://letitdie.wiki.gg/wiki/Iron_Hammer_EXRG
+    #1: Iron Hammer EXRG | Iron Hammer EXRG ★ Total Materials
+
+[1 tables] Iron Hammer RG
+URL: https://letitdie.wiki.gg/wiki/Iron_Hammer_RG
+    #1: Iron Hammer RG | Iron Hammer RG ★ Total Materials
+
+[1 tables] Iron Mask
+URL: https://letitdie.wiki.gg/wiki/Iron_Mask
+    #1: Iron Mask | Iron Mask ★ Total Materials
+
+[1 tables] Iron Mask N
+URL: https://letitdie.wiki.gg/wiki/Iron_Mask_N
+    #1: Iron Mask N | Iron Mask N ★★★★★★★ Total Materials
+
+[3 tables] Jackal Blaster
+URL: https://letitdie.wiki.gg/wiki/Jackal_Blaster
+    #1: Jackal Blaster | Jackal Blaster ★★★★★★ Total Materials
+    #2: Jackal Blaster R | Jackal Blaster R ★★★★★★ Total Materials
+    #3: Jackal Blaster R | Jackal Blaster R ★★★★★★ Total Materials
+
+[2 tables] Jackal Blaster D
+URL: https://letitdie.wiki.gg/wiki/Jackal_Blaster_D
+    #1: Jackal Blaster D | Jackal Blaster D ★★★★★★★ Total Materials
+    #2: Jackal Blaster D | Jackal Blaster D ★★★★★★★ Total Materials
+
+[3 tables] Jackal Blaster R
+URL: https://letitdie.wiki.gg/wiki/Jackal_Blaster_R
+    #1: Jackal Blaster | Jackal Blaster ★★★★★★ Total Materials
+    #2: Jackal Blaster R | Jackal Blaster R ★★★★★★ Total Materials
+    #3: Jackal Blaster R | Jackal Blaster R ★★★★★★ Total Materials
+
+[2 tables] Jackal Sword D
+URL: https://letitdie.wiki.gg/wiki/Jackal_Sword_D
+    #1: Jackal Sword D | Jackal Sword D ★★★★★★★ Total Materials
+    #2: Jackal Sword D | Jackal Sword D ★★★★★★★ Total Materials
+
+[3 tables] Jackal X Body
+URL: https://letitdie.wiki.gg/wiki/Jackal_X_Body
+    #1: Jackal X Body | Jackal X Body ★★★ Total Materials
+    #2: Jackal X Body R | Jackal X Body R ★★★★★★ Total Materials
+    #3: Jackal X Body R | Jackal X Body R ★★★★★★ Total Materials
+
+[2 tables] Jackal X Body D
+URL: https://letitdie.wiki.gg/wiki/Jackal_X_Body_D
+    #1: Jackal X Body D | Jackal X Body D ★★★★★★★ Total Materials
+    #2: Jackal X Body D | Jackal X Body D ★★★★★★★ Total Materials
+
+[3 tables] Jackal X Body R
+URL: https://letitdie.wiki.gg/wiki/Jackal_X_Body_R
+    #1: Jackal X Body | Jackal X Body ★★★ Total Materials
+    #2: Jackal X Body R | Jackal X Body R ★★★★★★ Total Materials
+    #3: Jackal X Body R | Jackal X Body R ★★★★★★ Total Materials
+
+[2 tables] Jackal X D Set
+URL: https://letitdie.wiki.gg/wiki/Jackal_X_D_Set
+    #1: Jackal X Head D | Jackal X Head D ★★★★★★★ Total Materials
+    #2: Jackal X Head D | Jackal X Head D ★★★★★★★ Total Materials
+
+[3 tables] Jackal X Head
+URL: https://letitdie.wiki.gg/wiki/Jackal_X_Head
+    #1: Jackal X Head | Jackal X Head ★★★ Total Materials
+    #2: Jackal X Head R | Jackal X Head R ★★★★★★ Total Materials
+    #3: Jackal X Head R | Jackal X Head R ★★★★★★ Total Materials
+
+[2 tables] Jackal X Head D
+URL: https://letitdie.wiki.gg/wiki/Jackal_X_Head_D
+    #1: Jackal X Head D | Jackal X Head D ★★★★★★★ Total Materials
+    #2: Jackal X Head D | Jackal X Head D ★★★★★★★ Total Materials
+
+[3 tables] Jackal X Head R
+URL: https://letitdie.wiki.gg/wiki/Jackal_X_Head_R
+    #1: Jackal X Head | Jackal X Head ★★★ Total Materials
+    #2: Jackal X Head R | Jackal X Head R ★★★★★★ Total Materials
+    #3: Jackal X Head R | Jackal X Head R ★★★★★★ Total Materials
+
+[3 tables] Jackal X Pants
+URL: https://letitdie.wiki.gg/wiki/Jackal_X_Pants
+    #1: Jackal X Pants | Jackal X Pants ★★★ Total Materials
+    #2: Jackal X Pants R | Jackal X Pants R ★★★★★★ Total Materials
+    #3: Jackal X Pants R | Jackal X Pants R ★★★★★★ Total Materials
+
+[2 tables] Jackal X Pants D
+URL: https://letitdie.wiki.gg/wiki/Jackal_X_Pants_D
+    #1: Jackal X Pants D | Jackal X Pants D ★★★★★★★ Total Materials
+    #2: Jackal X Pants D | Jackal X Pants D ★★★★★★★ Total Materials
+
+[3 tables] Jackal X Pants R
+URL: https://letitdie.wiki.gg/wiki/Jackal_X_Pants_R
+    #1: Jackal X Pants | Jackal X Pants ★★★ Total Materials
+    #2: Jackal X Pants R | Jackal X Pants R ★★★★★★ Total Materials
+    #3: Jackal X Pants R | Jackal X Pants R ★★★★★★ Total Materials
+
+[3 tables] Jackal X Set
+URL: https://letitdie.wiki.gg/wiki/Jackal_X_Set
+    #1: Jackal X Head | Jackal X Head ★★★ Total Materials
+    #2: Jackal X Head R | Jackal X Head R ★★★★★★ Total Materials
+    #3: Jackal X Head R | Jackal X Head R ★★★★★★ Total Materials
+
+[3 tables] Jackal Y Body
+URL: https://letitdie.wiki.gg/wiki/Jackal_Y_Body
+    #1: Jackal Y Body | Jackal Y Body ★★★ Total Materials
+    #2: Jackal Y Body R | Jackal Y Body R ★★★★★★ Total Materials
+    #3: Jackal Y Body R | Jackal Y Body R ★★★★★★ Total Materials
+
+[2 tables] Jackal Y Body D
+URL: https://letitdie.wiki.gg/wiki/Jackal_Y_Body_D
+    #1: Jackal Y Body D | Jackal Y Body D ★★★★★★★ Total Materials
+    #2: Jackal Y Body D | Jackal Y Body D ★★★★★★★ Total Materials
+
+[3 tables] Jackal Y Body R
+URL: https://letitdie.wiki.gg/wiki/Jackal_Y_Body_R
+    #1: Jackal Y Body | Jackal Y Body ★★★ Total Materials
+    #2: Jackal Y Body R | Jackal Y Body R ★★★★★★ Total Materials
+    #3: Jackal Y Body R | Jackal Y Body R ★★★★★★ Total Materials
+
+[2 tables] Jackal Y D Set
+URL: https://letitdie.wiki.gg/wiki/Jackal_Y_D_Set
+    #1: Jackal Y Head D | Jackal Y Head D ★★★★★★★ Total Materials
+    #2: Jackal Y Head D | Jackal Y Head D ★★★★★★★ Total Materials
+
+[3 tables] Jackal Y Head
+URL: https://letitdie.wiki.gg/wiki/Jackal_Y_Head
+    #1: Jackal Y Head | Jackal Y Head ★★★ Total Materials
+    #2: Jackal Y Head R | Jackal Y Head R ★★★★★★ Total Materials
+    #3: Jackal Y Head R | Jackal Y Head R ★★★★★★ Total Materials
+
+[2 tables] Jackal Y Head D
+URL: https://letitdie.wiki.gg/wiki/Jackal_Y_Head_D
+    #1: Jackal Y Head D | Jackal Y Head D ★★★★★★★ Total Materials
+    #2: Jackal Y Head D | Jackal Y Head D ★★★★★★★ Total Materials
+
+[3 tables] Jackal Y Head R
+URL: https://letitdie.wiki.gg/wiki/Jackal_Y_Head_R
+    #1: Jackal Y Head | Jackal Y Head ★★★ Total Materials
+    #2: Jackal Y Head R | Jackal Y Head R ★★★★★★ Total Materials
+    #3: Jackal Y Head R | Jackal Y Head R ★★★★★★ Total Materials
+
+[3 tables] Jackal Y Pants
+URL: https://letitdie.wiki.gg/wiki/Jackal_Y_Pants
+    #1: Jackal Y Pants | Jackal Y Pants ★★★ Total Materials
+    #2: Jackal Y Pants R | Jackal Y Pants R ★★★★★★ Total Materials
+    #3: Jackal Y Pants R | Jackal Y Pants R ★★★★★★ Total Materials
+
+[2 tables] Jackal Y Pants D
+URL: https://letitdie.wiki.gg/wiki/Jackal_Y_Pants_D
+    #1: Jackal Y Pants D | Jackal Y Pants D ★★★★★★★ Total Materials
+    #2: Jackal Y Pants D | Jackal Y Pants D ★★★★★★★ Total Materials
+
+[3 tables] Jackal Y Pants R
+URL: https://letitdie.wiki.gg/wiki/Jackal_Y_Pants_R
+    #1: Jackal Y Pants | Jackal Y Pants ★★★ Total Materials
+    #2: Jackal Y Pants R | Jackal Y Pants R ★★★★★★ Total Materials
+    #3: Jackal Y Pants R | Jackal Y Pants R ★★★★★★ Total Materials
+
+[3 tables] Jackal Y Set
+URL: https://letitdie.wiki.gg/wiki/Jackal_Y_Set
+    #1: Jackal Y Head | Jackal Y Head ★★★ Total Materials
+    #2: Jackal Y Head R | Jackal Y Head R ★★★★★★ Total Materials
+    #3: Jackal Y Head R | Jackal Y Head R ★★★★★★ Total Materials
+
+[3 tables] Jackal Yo-Yo
+URL: https://letitdie.wiki.gg/wiki/Jackal_Yo-Yo
+    #1: Jackal Yo-Yo | Jackal Yo-Yo ★★★★★★ Total Materials
+    #2: Jackal Yo-Yo R | Jackal Yo-Yo R ★★★★★★ Total Materials
+    #3: Jackal Yo-Yo R | Jackal Yo-Yo R ★★★★★★ Total Materials
+
+[2 tables] Jackal Yo-Yo D
+URL: https://letitdie.wiki.gg/wiki/Jackal_Yo-Yo_D
+    #1: Jackal Yo-Yo D | Jackal Yo-Yo D ★★★★★★★ Total Materials
+    #2: Jackal Yo-Yo D | Jackal Yo-Yo D ★★★★★★★ Total Materials
+
+[3 tables] Jackal Z Body
+URL: https://letitdie.wiki.gg/wiki/Jackal_Z_Body
+    #1: Jackal Z Body | Jackal Z Body ★★★ Total Materials
+    #2: Jackal Z Body R | Jackal Z Body R ★★★★★★ Total Materials
+    #3: Jackal Z Body R | Jackal Z Body R ★★★★★★ Total Materials
+
+[2 tables] Jackal Z Body D
+URL: https://letitdie.wiki.gg/wiki/Jackal_Z_Body_D
+    #1: Jackal Z Body D | Jackal Z Body D ★★★★★★★ Total Materials
+    #2: Jackal Z Body D | Jackal Z Body D ★★★★★★★ Total Materials
+
+[3 tables] Jackal Z Body R
+URL: https://letitdie.wiki.gg/wiki/Jackal_Z_Body_R
+    #1: Jackal Z Body | Jackal Z Body ★★★ Total Materials
+    #2: Jackal Z Body R | Jackal Z Body R ★★★★★★ Total Materials
+    #3: Jackal Z Body R | Jackal Z Body R ★★★★★★ Total Materials
+
+[2 tables] Jackal Z D Set
+URL: https://letitdie.wiki.gg/wiki/Jackal_Z_D_Set
+    #1: Jackal Z Head D | Jackal Z Head D ★★★★★★★ Total Materials
+    #2: Jackal Z Head D | Jackal Z Head D ★★★★★★★ Total Materials
+
+[3 tables] Jackal Z Head
+URL: https://letitdie.wiki.gg/wiki/Jackal_Z_Head
+    #1: Jackal Z Head | Jackal Z Head ★★★ Total Materials
+    #2: Jackal Z Head R | Jackal Z Head R ★★★★★★ Total Materials
+    #3: Jackal Z Head R | Jackal Z Head R ★★★★★★ Total Materials
+
+[2 tables] Jackal Z Head D
+URL: https://letitdie.wiki.gg/wiki/Jackal_Z_Head_D
+    #1: Jackal Z Head D | Jackal Z Head D ★★★★★★★ Total Materials
+    #2: Jackal Z Head D | Jackal Z Head D ★★★★★★★ Total Materials
+
+[3 tables] Jackal Z Head R
+URL: https://letitdie.wiki.gg/wiki/Jackal_Z_Head_R
+    #1: Jackal Z Head | Jackal Z Head ★★★ Total Materials
+    #2: Jackal Z Head R | Jackal Z Head R ★★★★★★ Total Materials
+    #3: Jackal Z Head R | Jackal Z Head R ★★★★★★ Total Materials
+
+[3 tables] Jackal Z Pants
+URL: https://letitdie.wiki.gg/wiki/Jackal_Z_Pants
+    #1: Jackal Z Pants | Jackal Z Pants ★★★ Total Materials
+    #2: Jackal Z Pants R | Jackal Z Pants R ★★★★★★ Total Materials
+    #3: Jackal Z Pants R | Jackal Z Pants R ★★★★★★ Total Materials
+
+[2 tables] Jackal Z Pants D
+URL: https://letitdie.wiki.gg/wiki/Jackal_Z_Pants_D
+    #1: Jackal Z Pants D | Jackal Z Pants D ★★★★★★★ Total Materials
+    #2: Jackal Z Pants D | Jackal Z Pants D ★★★★★★★ Total Materials
+
+[3 tables] Jackal Z Pants R
+URL: https://letitdie.wiki.gg/wiki/Jackal_Z_Pants_R
+    #1: Jackal Z Pants | Jackal Z Pants ★★★ Total Materials
+    #2: Jackal Z Pants R | Jackal Z Pants R ★★★★★★ Total Materials
+    #3: Jackal Z Pants R | Jackal Z Pants R ★★★★★★ Total Materials
+
+[3 tables] Jackal Z Set
+URL: https://letitdie.wiki.gg/wiki/Jackal_Z_Set
+    #1: Jackal Z Head | Jackal Z Head ★★★ Total Materials
+    #2: Jackal Z Head R | Jackal Z Head R ★★★★★★ Total Materials
+    #3: Jackal Z Head R | Jackal Z Head R ★★★★★★ Total Materials
+
+[1 tables] Judgement Day
+URL: https://letitdie.wiki.gg/wiki/Judgement_Day
+    #1: Judgement Day | Judgement Day ★★★★★★★ Total Materials
+
+[1 tables] Jungle Machete E RG
+URL: https://letitdie.wiki.gg/wiki/Jungle_Machete_E_RG
+    #1: Jungle Machete E RG | Jungle Machete E RG ★★ Total Materials
+
+[1 tables] King Baboon
+URL: https://letitdie.wiki.gg/wiki/King_Baboon
+    #1: King Baboon | King Baboon ★★★★★★★ Total Materials
+
+[3 tables] Knight's Armor ZX
+URL: https://letitdie.wiki.gg/wiki/Knight%27s_Armor_ZX
+    #1: Knight's Armor ZX | Knight's Armor ZX ★★★★ Total Materials
+    #2: Knight's Armor A ZX | Knight's Armor A ZX ★★★★★ Total Materials
+    #3: Knight's Armor A ZX | Knight's Armor A ZX ★★★★★ Total Materials
+
+[3 tables] Knight's Helm ZX
+URL: https://letitdie.wiki.gg/wiki/Knight%27s_Helm_ZX
+    #1: Knight's Helm ZX | Knight's Helm ZX ★★★★ Total Materials
+    #2: Knight's Helm A ZX | Knight's Helm A ZX ★★★★★ Total Materials
+    #3: Knight's Helm A ZX | Knight's Helm A ZX ★★★★★ Total Materials
+
+[3 tables] Knight's Leggings ZX
+URL: https://letitdie.wiki.gg/wiki/Knight%27s_Leggings_ZX
+    #1: Knight's Leggings ZX | Knight's Leggings ZX ★★★★ Total Materials
+    #2: Knight's Leggings A ZX | Knight's Leggings A ZX ★★★★★ Total Materials
+    #3: Knight's Leggings A ZX | Knight's Leggings A ZX ★★★★★ Total Materials
+
+[1 tables] Lethal Weapon
+URL: https://letitdie.wiki.gg/wiki/Lethal_Weapon
+    #1: Lethal Weapon | Lethal Weapon ★★★★★★★ Total Materials
+
+[1 tables] Lunatic
+URL: https://letitdie.wiki.gg/wiki/Lunatic
+    #1: Lunatic | Lunatic ★★★★★★★ Total Materials
+
+[4 tables] M2G-87
+URL: https://letitdie.wiki.gg/wiki/M2G-87
+    #1: M2G-87 | M2G-87 ★★★★★★ Total Materials
+    #2: M2G-87 | M2G-87 ★★★★★★ Total Materials
+    #3: M2G-87 Mod.1 FireFly | M2G-87 Mod.1 FireFly ★★★★★★★ Total Materials
+    #4: M2G-87 Mod.1 FireFly | M2G-87 Mod.1 FireFly ★★★★★★★ Total Materials
+
+[2 tables] M2G-87 Mod.1 FireFly
+URL: https://letitdie.wiki.gg/wiki/M2G-87_Mod.1_FireFly
+    #1: M2G-87 Mod.1 FireFly | M2G-87 Mod.1 FireFly ★★★★★★★ Total Materials
+    #2: M2G-87 Mod.1 FireFly | M2G-87 Mod.1 FireFly ★★★★★★★ Total Materials
+
+[1 tables] M42 Gas Mask
+URL: https://letitdie.wiki.gg/wiki/M42_Gas_Mask
+    #1: M42 Gas Mask | M42 Gas Mask ★ Total Materials
+
+[1 tables] M42 Gas Mask N
+URL: https://letitdie.wiki.gg/wiki/M42_Gas_Mask_N
+    #1: M42 Gas Mask N | M42 Gas Mask N ★★★★★★★ Total Materials
+
+[1 tables] Mad Police
+URL: https://letitdie.wiki.gg/wiki/Mad_Police
+    #1: Mad Police | Mad Police ★★★★★★★ Total Materials
+
+[4 tables] Meijin Head
+URL: https://letitdie.wiki.gg/wiki/Meijin_Head
+    #1: Meijin Head 1 | Meijin Head 1 ★★★ Total Materials
+    #2: Meijin Head 2 | Meijin Head 2 ★★★★ Total Materials
+    #3: Meijin Head 3 | Meijin Head 3 ★★★★★ Total Materials
+    #4: Meijin Head 3 | Meijin Head 3 ★★★★★★ Total Materials
+
+[4 tables] Meijin Head 1
+URL: https://letitdie.wiki.gg/wiki/Meijin_Head_1
+    #1: Meijin Head 1 | Meijin Head 1 ★★★ Total Materials
+    #2: Meijin Head 2 | Meijin Head 2 ★★★★ Total Materials
+    #3: Meijin Head 3 | Meijin Head 3 ★★★★★ Total Materials
+    #4: Meijin Head 3 | Meijin Head 3 ★★★★★★ Total Materials
+
+[4 tables] Meijin Head 2
+URL: https://letitdie.wiki.gg/wiki/Meijin_Head_2
+    #1: Meijin Head 1 | Meijin Head 1 ★★★ Total Materials
+    #2: Meijin Head 2 | Meijin Head 2 ★★★★ Total Materials
+    #3: Meijin Head 3 | Meijin Head 3 ★★★★★ Total Materials
+    #4: Meijin Head 3 | Meijin Head 3 ★★★★★★ Total Materials
+
+[4 tables] Meijin Head 3
+URL: https://letitdie.wiki.gg/wiki/Meijin_Head_3
+    #1: Meijin Head 1 | Meijin Head 1 ★★★ Total Materials
+    #2: Meijin Head 2 | Meijin Head 2 ★★★★ Total Materials
+    #3: Meijin Head 3 | Meijin Head 3 ★★★★★ Total Materials
+    #4: Meijin Head 3 | Meijin Head 3 ★★★★★★ Total Materials
+
+[1 tables] Midnight Empress
+URL: https://letitdie.wiki.gg/wiki/Midnight_Empress
+    #1: Midnight Empress | Midnight Empress ★★★★★★★ Total Materials
+
+[4 tables] Momoko Yamada Head
+URL: https://letitdie.wiki.gg/wiki/Momoko_Yamada_Head
+    #1: Momoko Yamada Head 1 | Momoko Yamada Head 1 ★★★ Total Materials
+    #2: Momoko Yamada Head 2 | Momoko Yamada Head 2 ★★★★ Total Materials
+    #3: Momoko Yamada Head 3 | Momoko Yamada Head 3 ★★★★★ Total Materials
+    #4: Momoko Yamada Head 3 | Momoko Yamada Head 3 ★★★★★★ Total Materials
+
+[4 tables] Momoko Yamada Head 1
+URL: https://letitdie.wiki.gg/wiki/Momoko_Yamada_Head_1
+    #1: Momoko Yamada Head 1 | Momoko Yamada Head 1 ★★★ Total Materials
+    #2: Momoko Yamada Head 2 | Momoko Yamada Head 2 ★★★★ Total Materials
+    #3: Momoko Yamada Head 3 | Momoko Yamada Head 3 ★★★★★ Total Materials
+    #4: Momoko Yamada Head 3 | Momoko Yamada Head 3 ★★★★★★ Total Materials
+
+[4 tables] Momoko Yamada Head 2
+URL: https://letitdie.wiki.gg/wiki/Momoko_Yamada_Head_2
+    #1: Momoko Yamada Head 1 | Momoko Yamada Head 1 ★★★ Total Materials
+    #2: Momoko Yamada Head 2 | Momoko Yamada Head 2 ★★★★ Total Materials
+    #3: Momoko Yamada Head 3 | Momoko Yamada Head 3 ★★★★★ Total Materials
+    #4: Momoko Yamada Head 3 | Momoko Yamada Head 3 ★★★★★★ Total Materials
+
+[4 tables] Momoko Yamada Head 3
+URL: https://letitdie.wiki.gg/wiki/Momoko_Yamada_Head_3
+    #1: Momoko Yamada Head 1 | Momoko Yamada Head 1 ★★★ Total Materials
+    #2: Momoko Yamada Head 2 | Momoko Yamada Head 2 ★★★★ Total Materials
+    #3: Momoko Yamada Head 3 | Momoko Yamada Head 3 ★★★★★ Total Materials
+    #4: Momoko Yamada Head 3 | Momoko Yamada Head 3 ★★★★★★ Total Materials
+
+[2 tables] Mortal Bobslayer
+URL: https://letitdie.wiki.gg/wiki/Mortal_Bobslayer
+    #1: Mortal Bobslayer | Mortal Bobslayer ★★★★★★ Total Materials
+    #2: Mortal Bobslayer | Mortal Bobslayer ★★★★★★ Total Materials
+
+[3 tables] Motorcycle ZX
+URL: https://letitdie.wiki.gg/wiki/Executioner%27s_Ride_ZX
+    #1: Executioner’s Ride ZX | Executioner’s Ride ZX ★★★★★ Total Materials
+    #2: Executioner’s Ride A ZX | Executioner’s Ride A ZX ★★★★★★ Total Materials
+    #3: Executioner’s Ride A ZX | Executioner’s Ride A ZX ★★★★★★ Total Materials
+
+[1 tables] Muspelheim
+URL: https://letitdie.wiki.gg/wiki/Muspelheim
+    #1: Muspelheim | Muspelheim ★★★★★★★ Total Materials
+
+[4 tables] No Knife
+URL: https://letitdie.wiki.gg/wiki/No_Knife
+    #1: No Knife 1 | No Knife 1 ★★★ Total Materials
+    #2: No Knife 2 | No Knife 2 ★★★★ Total Materials
+    #3: No Knife 3 | No Knife 3 ★★★★★ Total Materials
+    #4: No Knife 3 | No Knife 3 ★★★★★ Total Materials
+
+[4 tables] No Knife 1
+URL: https://letitdie.wiki.gg/wiki/No_Knife_1
+    #1: No Knife 1 | No Knife 1 ★★★ Total Materials
+    #2: No Knife 2 | No Knife 2 ★★★★ Total Materials
+    #3: No Knife 3 | No Knife 3 ★★★★★ Total Materials
+    #4: No Knife 3 | No Knife 3 ★★★★★ Total Materials
+
+[4 tables] No Knife 2
+URL: https://letitdie.wiki.gg/wiki/No_Knife_2
+    #1: No Knife 1 | No Knife 1 ★★★ Total Materials
+    #2: No Knife 2 | No Knife 2 ★★★★ Total Materials
+    #3: No Knife 3 | No Knife 3 ★★★★★ Total Materials
+    #4: No Knife 3 | No Knife 3 ★★★★★ Total Materials
+
+[4 tables] No Knife 3
+URL: https://letitdie.wiki.gg/wiki/No_Knife_3
+    #1: No Knife 1 | No Knife 1 ★★★ Total Materials
+    #2: No Knife 2 | No Knife 2 ★★★★ Total Materials
+    #3: No Knife 3 | No Knife 3 ★★★★★ Total Materials
+    #4: No Knife 3 | No Knife 3 ★★★★★ Total Materials
+
+[1 tables] Nosferatu
+URL: https://letitdie.wiki.gg/wiki/Nosferatu
+    #1: Nosferatu | Nosferatu ★★★★★★★ Total Materials
+
+[1 tables] Ouroboros
+URL: https://letitdie.wiki.gg/wiki/Ouroboros
+    #1: Ouroboros | Ouroboros ★★★★★★★ Total Materials
+
+[2 tables] Pale Wind Body
+URL: https://letitdie.wiki.gg/wiki/Pale_Wind_Body
+    #1: Pale Wind Body | Pale Wind Body ★★★★★★ Total Materials
+    #2: Pale Wind Body | Pale Wind Body ★★★★★★ Total Materials
+
+[2 tables] Pale Wind Head
+URL: https://letitdie.wiki.gg/wiki/Pale_Wind_Head
+    #1: Pale Wind Head | Pale Wind Head ★★★★★★ Total Materials
+    #2: Pale Wind Head | Pale Wind Head ★★★★★★ Total Materials
+
+[2 tables] Pale Wind Pants
+URL: https://letitdie.wiki.gg/wiki/Pale_Wind_Pants
+    #1: Pale Wind Pants | Pale Wind Pants ★★★★★★ Total Materials
+    #2: Pale Wind Pants | Pale Wind Pants ★★★★★★ Total Materials
+
+[2 tables] Pale Wind Set
+URL: https://letitdie.wiki.gg/wiki/Pale_Wind_Set
+    #1: Pale Wind Head | Pale Wind Head ★★★★★★ Total Materials
+    #2: Pale Wind Head | Pale Wind Head ★★★★★★ Total Materials
+
+[1 tables] Pandemic
+URL: https://letitdie.wiki.gg/wiki/Pandemic
+    #1: Pandemic | Pandemic ★★★★★★★ Total Materials
+
+[1 tables] Pilot's Mask
+URL: https://letitdie.wiki.gg/wiki/Pilot%27s_Mask
+    #1: Pilot’s Mask | Pilot’s Mask ★ Total Materials
+
+[1 tables] Pilot's Mask N
+URL: https://letitdie.wiki.gg/wiki/Pilot%27s_Mask_N
+    #1: Pilot’s Mask N | Pilot’s Mask N ★★★★★★★ Total Materials
+
+[1 tables] Predator
+URL: https://letitdie.wiki.gg/wiki/Predator
+    #1: Predator | Predator ★★★★★★★ Total Materials
+
+[2 tables] Reaper's Coat
+URL: https://letitdie.wiki.gg/wiki/Reaper%27s_Coat
+    #1: Reaper's Coat | Reaper's Coat ★★★★★★ Total Materials
+    #2: Reaper's Coat | Reaper's Coat ★★★★★★ Total Materials
+
+[2 tables] Reaper's Pants
+URL: https://letitdie.wiki.gg/wiki/Reaper%27s_Pants
+    #1: Reaper's Pants | Reaper's Pants ★★★★★★ Total Materials
+    #2: Reaper's Pants | Reaper's Pants ★★★★★★ Total Materials
+
+[2 tables] Reaper's Set
+URL: https://letitdie.wiki.gg/wiki/Reaper%27s_Set
+    #1: X-Ray Glasses | X-Ray Glasses ★★★★★★ Total Materials
+    #2: X-Ray Glasses | X-Ray Glasses ★★★★★★ Total Materials
+
+[2 tables] Red Napalm Body
+URL: https://letitdie.wiki.gg/wiki/Red_Napalm_Body
+    #1: Red Napalm Body | Red Napalm Body ★★★★★★ Total Materials
+    #2: Red Napalm Body | Red Napalm Body ★★★★★★ Total Materials
+
+[2 tables] Red Napalm Head
+URL: https://letitdie.wiki.gg/wiki/Red_Napalm_Head
+    #1: Red Napalm Head | Red Napalm Head ★★★★★★ Total Materials
+    #2: Red Napalm Head | Red Napalm Head ★★★★★★ Total Materials
+
+[2 tables] Red Napalm Pants
+URL: https://letitdie.wiki.gg/wiki/Red_Napalm_Pants
+    #1: Red Napalm Pants | Red Napalm Pants ★★★★★★ Total Materials
+    #2: Red Napalm Pants | Red Napalm Pants ★★★★★★ Total Materials
+
+[2 tables] Red Napalm Set
+URL: https://letitdie.wiki.gg/wiki/Red_Napalm_Set
+    #1: Red Napalm Head | Red Napalm Head ★★★★★★ Total Materials
+    #2: Red Napalm Head | Red Napalm Head ★★★★★★ Total Materials
+
+[1 tables] Space Funglasses
+URL: https://letitdie.wiki.gg/wiki/Space_Funglasses
+    #1: Space Funglasses | Space Funglasses ★★★ Total Materials
+
+[4 tables] Spike Crusher
+URL: https://letitdie.wiki.gg/wiki/Spike_Crusher
+    #1: Spike Crusher | Spike Crusher ★★★★★★ Total Materials
+    #2: Spike Crusher | Spike Crusher ★★★★★★ Total Materials
+    #3: Hell Spike Crusher | Hell Spike Crusher ★★★★★★★ Total Materials
+    #4: Hell Spike Crusher | Hell Spike Crusher ★★★★★★★ Total Materials
+
+[4 tables] Static Massager
+URL: https://letitdie.wiki.gg/wiki/Static_Massager
+    #1: Static Massager | Static Massager ★★★★★★ Total Materials
+    #2: Static Massager | Static Massager ★★★★★★ Total Materials
+    #3: Viral Massager | Viral Massager ★★★★★★★ Total Materials
+    #4: Viral Massager | Viral Massager ★★★★★★★ Total Materials
+
+[1 tables] Surgical Mask
+URL: https://letitdie.wiki.gg/wiki/Surgical_Mask
+    #1: Surgical Mask | Surgical Mask ★ Total Materials
+
+[1 tables] Surgical Mask N
+URL: https://letitdie.wiki.gg/wiki/Surgical_Mask_N
+    #1: Surgical Mask N | Surgical Mask N ★★★★★★★ Total Materials
+
+[1 tables] Takama-ga-hara
+URL: https://letitdie.wiki.gg/wiki/Takama-ga-hara
+    #1: Takama-ga-hara | Takama-ga-hara ★★★★★★★ Total Materials
+
+[1 tables] Thunderbolt
+URL: https://letitdie.wiki.gg/wiki/Thunderbolt
+    #1: Thunderbolt | Thunderbolt ★★★★★★★ Total Materials
+
+[1 tables] Tuscan Mask
+URL: https://letitdie.wiki.gg/wiki/Tuscan_Mask
+    #1: Tuscan Mask | Tuscan Mask ★ Total Materials
+
+[1 tables] Tuscan Mask N
+URL: https://letitdie.wiki.gg/wiki/Tuscan_Mask_N
+    #1: Tuscan Mask N | Tuscan Mask N ★★★★★★★ Total Materials
+
+[1 tables] Ultra 3D Glasses
+URL: https://letitdie.wiki.gg/wiki/Ultra_3D_Glasses
+    #1: Ultra 3D Glasses | Ultra 3D Glasses ★★★ Total Materials
+
+[4 tables] Ultra 3D Glasses W
+URL: https://letitdie.wiki.gg/wiki/Ultra_3D_Glasses_W
+    #1: Ultra 3D Glasses W1 | Ultra 3D Glasses W1 ★★★ Total Materials
+    #2: Ultra 3D Glasses W2 | Ultra 3D Glasses W2 ★★★★ Total Materials
+    #3: Ultra 3D Glasses W3 | Ultra 3D Glasses W3 ★★★★★ Total Materials
+    #4: Ultra 3D Glasses W3 | Ultra 3D Glasses W3 ★★★★★ Total Materials
+
+[4 tables] Uncle-D2 Head
+URL: https://letitdie.wiki.gg/wiki/Uncle-D2_Head
+    #1: Uncle-D2 Head 1 | Uncle-D2 Head 1 ★★★ Total Materials
+    #2: Uncle-D2 Head 2 | Uncle-D2 Head 2 ★★★★ Total Materials
+    #3: Uncle-D2 Head 3 | Uncle-D2 Head 3 ★★★★★ Total Materials
+    #4: Uncle-D2 Head 3 | Uncle-D2 Head 3 ★★★★★ Total Materials
+
+[2 tables] Vajra of God
+URL: https://letitdie.wiki.gg/wiki/Vajra_of_God
+    #1: Vajra of God | Vajra of God ★★★★★★★ Total Materials
+    #2: Vajra of God | Vajra of God ★★★★★★★ Total Materials
+
+[4 tables] Vajra of Light
+URL: https://letitdie.wiki.gg/wiki/Vajra_of_Light
+    #1: Vajra of Light | Vajra of Light ★★★★★★ Total Materials
+    #2: Vajra of Light | Vajra of Light ★★★★★★ Total Materials
+    #3: Vajra of God | Vajra of God ★★★★★★★ Total Materials
+    #4: Vajra of God | Vajra of God ★★★★★★★ Total Materials
+
+[2 tables] Viral Massager
+URL: https://letitdie.wiki.gg/wiki/Viral_Massager
+    #1: Viral Massager | Viral Massager ★★★★★★★ Total Materials
+    #2: Viral Massager | Viral Massager ★★★★★★★ Total Materials
+
+[2 tables] White Steel Body
+URL: https://letitdie.wiki.gg/wiki/White_Steel_Body
+    #1: White Steel Body | White Steel Body ★★★★★★ Total Materials
+    #2: White Steel Body | White Steel Body ★★★★★★ Total Materials
+
+[2 tables] White Steel Head
+URL: https://letitdie.wiki.gg/wiki/White_Steel_Head
+    #1: White Steel Head | White Steel Head ★★★★★★ Total Materials
+    #2: White Steel Head | White Steel Head ★★★★★★ Total Materials
+
+[2 tables] White Steel Leggings
+URL: https://letitdie.wiki.gg/wiki/White_Steel_Leggings
+    #1: White Steel Leggings | White Steel Leggings ★★★★★★ Total Materials
+    #2: White Steel Leggings | White Steel Leggings ★★★★★★ Total Materials
+
+[2 tables] White Steel Set
+URL: https://letitdie.wiki.gg/wiki/White_Steel_Set
+    #1: White Steel Head | White Steel Head ★★★★★★ Total Materials
+    #2: White Steel Head | White Steel Head ★★★★★★ Total Materials
+
+[1 tables] X-Rated Glasses
+URL: https://letitdie.wiki.gg/wiki/X-Rated_Glasses
+    #1: X-Rated Glasses | X-Rated Glasses ★★★ Total Materials
+
+[2 tables] X-Ray Glasses (Blue)
+URL: https://letitdie.wiki.gg/wiki/X-Ray_Glasses_(Blue)
+    #1: X-Ray Glasses | X-Ray Glasses ★★★★★★ Total Materials
+    #2: X-Ray Glasses | X-Ray Glasses ★★★★★★ Total Materials
+
+[2 tables] X-Ray Glasses (Red)
+URL: https://letitdie.wiki.gg/wiki/X-Ray_Glasses_(Red)
+    #1: X-Ray Glasses | X-Ray Glasses ★★★★★★ Total Materials
+    #2: X-Ray Glasses | X-Ray Glasses ★★★★★★ Total Materials
+
+[4 tables] Yes Knife
+URL: https://letitdie.wiki.gg/wiki/Yes_Knife
+    #1: Yes Knife 1 | Yes Knife 1 ★★★ Total Materials
+    #2: Yes Knife 2 | Yes Knife 2 ★★★★ Total Materials
+    #3: Yes Knife 3 | Yes Knife 3 ★★★★★ Total Materials
+    #4: Yes Knife 3 | Yes Knife 3 ★★★★★ Total Materials
+
+[4 tables] Yes Knife 1
+URL: https://letitdie.wiki.gg/wiki/Yes_Knife_1
+    #1: Yes Knife 1 | Yes Knife 1 ★★★ Total Materials
+    #2: Yes Knife 2 | Yes Knife 2 ★★★★ Total Materials
+    #3: Yes Knife 3 | Yes Knife 3 ★★★★★ Total Materials
+    #4: Yes Knife 3 | Yes Knife 3 ★★★★★ Total Materials
+
+[4 tables] Yes Knife 2
+URL: https://letitdie.wiki.gg/wiki/Yes_Knife_2
+    #1: Yes Knife 1 | Yes Knife 1 ★★★ Total Materials
+    #2: Yes Knife 2 | Yes Knife 2 ★★★★ Total Materials
+    #3: Yes Knife 3 | Yes Knife 3 ★★★★★ Total Materials
+    #4: Yes Knife 3 | Yes Knife 3 ★★★★★ Total Materials
+
+[4 tables] Yes Knife 3
+URL: https://letitdie.wiki.gg/wiki/Yes_Knife_3
+    #1: Yes Knife 1 | Yes Knife 1 ★★★ Total Materials
+    #2: Yes Knife 2 | Yes Knife 2 ★★★★ Total Materials
+    #3: Yes Knife 3 | Yes Knife 3 ★★★★★ Total Materials
+    #4: Yes Knife 3 | Yes Knife 3 ★★★★★ Total Materials
+
+================================================================================
+OTHER PAGE STRUCTURES
+================================================================================
+
+[27 tables] Assault Force Set
+URL: https://letitdie.wiki.gg/wiki/Assault_Force_Set
+    #1: Assault Force Head | Assault Force Head ★★ Total Materials
+    #2: Assault Force Head E | Assault Force Head E ★★★ Total Materials
+    #3: Assault Master Head | Assault Master Head ★★★★ Total Materials
+    #4: Assault Master Head E | Assault Master Head E ★★★★★ Total Materials
+    #5: Assault Master Head E | Assault Master Head E ★★★★★ Total Materials
+    #6: Assault Force Body | Assault Force Body ★★ Total Materials
+    #7: Assault Force Body E | Assault Force Body E ★★★ Total Materials
+    #8: Assault Master Body | Assault Master Body ★★★★ Total Materials
+    #9: Assault Master Body E | Assault Master Body E ★★★★★ Total Materials
+    #10: Assault Master Body E | Assault Master Body E ★★★★★ Total Materials
+    #11: Assault Force Pants | Assault Force Pants ★★ Total Materials
+    #12: Assault Force Pants E | Assault Force Pants E ★★★ Total Materials
+    #13: Assault Master Pants | Assault Master Pants ★★★★ Total Materials
+    #14: Assault Master Pants E | Assault Master Pants E ★★★★★ Total Materials
+    #15: Assault Master Pants E | Assault Master Pants E ★★★★★ Total Materials
+    #16: Assault Force Head G1 | Assault Force Head G1 ★★★ Total Materials
+    #17: Assault Force Head G2 | Assault Force Head G2 ★★★★ Total Materials
+    #18: Assault Master Head G | Assault Master Head G ★★★★★ Total Materials
+    #19: Assault Master Head G | Assault Master Head G ★★★★★ Total Materials
+    #20: Assault Force Body G1 | Assault Force Body G1 ★★★ Total Materials
+    #21: Assault Force Body G2 | Assault Force Body G2 ★★★★ Total Materials
+    #22: Assault Master Body G | Assault Master Body G ★★★★★ Total Materials
+    #23: Assault Master Body G | Assault Master Body G ★★★★★ Total Materials
+    #24: Assault Force Pants G1 | Assault Force Pants G1 ★★★ Total Materials
+    #25: Assault Force Pants G2 | Assault Force Pants G2 ★★★★ Total Materials
+    #26: Assault Master Pants G | Assault Master Pants G ★★★★★ Total Materials
+    #27: Assault Master Pants G | Assault Master Pants G ★★★★★ Total Materials
+
+[16 tables] Class Masks
+URL: https://letitdie.wiki.gg/wiki/Class_Masks
+    #1: 4M Gas Mask | 4M Gas Mask ★ Total Materials
+    #2: M42 Gas Mask | M42 Gas Mask ★ Total Materials
+    #3: Surgical Mask | Surgical Mask ★ Total Materials
+    #4: Pilot’s Mask | Pilot’s Mask ★ Total Materials
+    #5: Iron Mask | Iron Mask ★ Total Materials
+    #6: Tuscan Mask | Tuscan Mask ★ Total Materials
+    #7: Fencer's Mask | Fencer's Mask ★ Total Materials
+    #8: Desert Scarf | Desert Scarf ★ Total Materials
+    #9: 4M Gas Mask N | 4M Gas Mask N ★★★★★★★ Total Materials
+    #10: M42 Gas Mask N | M42 Gas Mask N ★★★★★★★ Total Materials
+    #11: Surgical Mask N | Surgical Mask N ★★★★★★★ Total Materials
+    #12: Pilot’s Mask N | Pilot’s Mask N ★★★★★★★ Total Materials
+    #13: Iron Mask N | Iron Mask N ★★★★★★★ Total Materials
+    #14: Tuscan Mask N | Tuscan Mask N ★★★★★★★ Total Materials
+    #15: Fencer's Mask N | Fencer's Mask N ★★★★★★★ Total Materials
+    #16: Desert Scarf N | Desert Scarf N ★★★★★★★ Total Materials
+
+[8 tables] Death's Scythe
+URL: https://letitdie.wiki.gg/wiki/Death%27s_Scythe
+    #1: Grim Reaper’s Scythe | Grim Reaper’s Scythe ★★★★★ Total Materials
+    #2: Grim Reaper’s Scythe | Grim Reaper’s Scythe ★★★★★ Total Materials
+    #3: Grim Reaper’s Scythe | Grim Reaper’s Scythe ★★★★★ Total Materials
+    #4: Grim Reaper’s Scythe | Grim Reaper’s Scythe ★★★★★ Total Materials
+    #5: Grim Reaper’s Scythe R1 | Grim Reaper’s Scythe R1 ★★★ Total Materials
+    #6: Grim Reaper’s Scythe R2 | Grim Reaper’s Scythe R2 ★★★★ Total Materials
+    #7: Grim Reaper’s Scythe R3 | Grim Reaper’s Scythe R3 ★★★★★ Total Materials
+    #8: Grim Reaper’s Scythe R3 | Grim Reaper’s Scythe R3 ★★★★★ Total Materials
+
+[24 tables] Knight Set
+URL: https://letitdie.wiki.gg/wiki/Knight_Set
+    #1: Knight's Helm | Knight's Helm ★★ Total Materials
+    #2: Knight's Helm S | Knight's Helm S ★★★ Total Materials
+    #3: Hades Knight Helmet | Hades Knight Helmet ★★★★ Total Materials
+    #4: Hades Knight Helmet S | Hades Knight Helmet S ★★★★★ Total Materials
+    #5: Hades Knight Helmet S | Hades Knight Helmet S ★★★★★ Total Materials
+    #6: Knight's Armor | Knight's Armor ★★ Total Materials
+    #7: Knight's Armor S | Knight's Armor S ★★★ Total Materials
+    #8: Hades Knight Armor | Hades Knight Armor ★★★★ Total Materials
+    #9: Hades Knight Armor S | Hades Knight Armor S ★★★★★ Total Materials
+    #10: Hades Knight Armor S | Hades Knight Armor S ★★★★★ Total Materials
+    #11: Knight's Leggings | Knight's Leggings ★★ Total Materials
+    #12: Knight's Leggings S | Knight's Leggings S ★★★ Total Materials
+    #13: Hades Knight Leggings | Hades Knight Leggings ★★★★ Total Materials
+    #14: Hades Knight Leggings S | Hades Knight Leggings S ★★★★★ Total Materials
+    #15: Hades Knight Leggings S | Hades Knight Leggings S ★★★★★ Total Materials
+    #16: Knight's Helm ZX | Knight's Helm ZX ★★★★ Total Materials
+    #17: Knight's Helm A ZX | Knight's Helm A ZX ★★★★★ Total Materials
+    #18: Knight's Helm A ZX | Knight's Helm A ZX ★★★★★ Total Materials
+    #19: Knight's Armor ZX | Knight's Armor ZX ★★★★ Total Materials
+    #20: Knight's Armor A ZX | Knight's Armor A ZX ★★★★★ Total Materials
+    #21: Knight's Armor A ZX | Knight's Armor A ZX ★★★★★ Total Materials
+    #22: Knight's Leggings ZX | Knight's Leggings ZX ★★★★ Total Materials
+    #23: Knight's Leggings A ZX | Knight's Leggings A ZX ★★★★★ Total Materials
+    #24: Knight's Leggings A ZX | Knight's Leggings A ZX ★★★★★ Total Materials
+
+[24 tables] Knight ZX Set
+URL: https://letitdie.wiki.gg/wiki/Knight_ZX_Set
+    #1: Knight's Helm | Knight's Helm ★★ Total Materials
+    #2: Knight's Helm S | Knight's Helm S ★★★ Total Materials
+    #3: Hades Knight Helmet | Hades Knight Helmet ★★★★ Total Materials
+    #4: Hades Knight Helmet S | Hades Knight Helmet S ★★★★★ Total Materials
+    #5: Hades Knight Helmet S | Hades Knight Helmet S ★★★★★ Total Materials
+    #6: Knight's Armor | Knight's Armor ★★ Total Materials
+    #7: Knight's Armor S | Knight's Armor S ★★★ Total Materials
+    #8: Hades Knight Armor | Hades Knight Armor ★★★★ Total Materials
+    #9: Hades Knight Armor S | Hades Knight Armor S ★★★★★ Total Materials
+    #10: Hades Knight Armor S | Hades Knight Armor S ★★★★★ Total Materials
+    #11: Knight's Leggings | Knight's Leggings ★★ Total Materials
+    #12: Knight's Leggings S | Knight's Leggings S ★★★ Total Materials
+    #13: Hades Knight Leggings | Hades Knight Leggings ★★★★ Total Materials
+    #14: Hades Knight Leggings S | Hades Knight Leggings S ★★★★★ Total Materials
+    #15: Hades Knight Leggings S | Hades Knight Leggings S ★★★★★ Total Materials
+    #16: Knight's Helm ZX | Knight's Helm ZX ★★★★ Total Materials
+    #17: Knight's Helm A ZX | Knight's Helm A ZX ★★★★★ Total Materials
+    #18: Knight's Helm A ZX | Knight's Helm A ZX ★★★★★ Total Materials
+    #19: Knight's Armor ZX | Knight's Armor ZX ★★★★ Total Materials
+    #20: Knight's Armor A ZX | Knight's Armor A ZX ★★★★★ Total Materials
+    #21: Knight's Armor A ZX | Knight's Armor A ZX ★★★★★ Total Materials
+    #22: Knight's Leggings ZX | Knight's Leggings ZX ★★★★ Total Materials
+    #23: Knight's Leggings A ZX | Knight's Leggings A ZX ★★★★★ Total Materials
+    #24: Knight's Leggings A ZX | Knight's Leggings A ZX ★★★★★ Total Materials
+
+[16 tables] Tengoku Class Masks
+URL: https://letitdie.wiki.gg/wiki/Tengoku_Class_Masks
+    #1: 4M Gas Mask | 4M Gas Mask ★ Total Materials
+    #2: M42 Gas Mask | M42 Gas Mask ★ Total Materials
+    #3: Surgical Mask | Surgical Mask ★ Total Materials
+    #4: Pilot’s Mask | Pilot’s Mask ★ Total Materials
+    #5: Iron Mask | Iron Mask ★ Total Materials
+    #6: Tuscan Mask | Tuscan Mask ★ Total Materials
+    #7: Fencer's Mask | Fencer's Mask ★ Total Materials
+    #8: Desert Scarf | Desert Scarf ★ Total Materials
+    #9: 4M Gas Mask N | 4M Gas Mask N ★★★★★★★ Total Materials
+    #10: M42 Gas Mask N | M42 Gas Mask N ★★★★★★★ Total Materials
+    #11: Surgical Mask N | Surgical Mask N ★★★★★★★ Total Materials
+    #12: Pilot’s Mask N | Pilot’s Mask N ★★★★★★★ Total Materials
+    #13: Iron Mask N | Iron Mask N ★★★★★★★ Total Materials
+    #14: Tuscan Mask N | Tuscan Mask N ★★★★★★★ Total Materials
+    #15: Fencer's Mask N | Fencer's Mask N ★★★★★★★ Total Materials
+    #16: Desert Scarf N | Desert Scarf N ★★★★★★★ Total Materials
+
